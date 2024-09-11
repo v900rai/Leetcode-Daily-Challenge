@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1811-fix-names-in-a-table](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1811-fix-names-in-a-table) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
