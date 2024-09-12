@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Database
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
@@ -66,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
