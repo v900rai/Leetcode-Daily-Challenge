@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
