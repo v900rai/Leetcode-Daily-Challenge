@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
