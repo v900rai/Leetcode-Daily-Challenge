@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
