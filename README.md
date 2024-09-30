@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
 | ------- |
