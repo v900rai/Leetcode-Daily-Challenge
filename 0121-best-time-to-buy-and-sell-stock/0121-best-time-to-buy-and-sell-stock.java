@@ -1,3 +1,5 @@
+
+
 class Solution {
     public int maxProfit(int[] price) {
         int maxProfit = 0; // Initialize with 0 as no profit is made yet
