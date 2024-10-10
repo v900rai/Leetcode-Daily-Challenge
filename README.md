@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0101-symmetric-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
