@@ -1,6 +1,6 @@
 class Solution {
     public int maximumSwap(int num) {
-                String s = Integer.toString(num); // Convert num to string
+        String s = Integer.toString(num); // Convert num to string
         int n = s.length();
 
         // Array to store the index of the maximum element to the right
