@@ -8,5 +8,6 @@ class Solution {
         // Concatenate s with itself and check if goal is a substring
         String doubled = s + s;
         return doubled.contains(goal);
+        // vishal rai
     }
 }
