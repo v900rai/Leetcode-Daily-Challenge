@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(int m) {
+     public boolean isPalindrome(int m) {
         boolean flag=true;
         if(m<0){
             return false;
