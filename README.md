@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 ## Trie
