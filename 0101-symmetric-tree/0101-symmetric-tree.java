@@ -15,19 +15,17 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-  return isSemme(root.left, root.right);
+  return issamme(root.left, root.right);
     
         
     }
-    private boolean isSemme(TreeNode left, TreeNode right){
-        if(left==null || right==null){
-            return (left==right);
-        }
-        if(left.val != right.val){
-            return false;
-        }
-           return isSemme(left.left,right.right) && isSemme(left.right,right.left);
-
-        
+   public static boolean issamme(TreeNode left, TreeNode right){
+    if(left== null || right==null){
+        return (left==right);
     }
+    if(left.val!=right.val){
+        return false;
+    }
+    return issamme(left.left, right.right) && issamme(left.right, right.left);
+   }
 }
