@@ -1,18 +1,17 @@
 class Solution {
-     public boolean isPalindrome(int m) {
-        boolean flag=true;
-        if(m<0){
+    public boolean isPalindrome(int x) {
+        if (x < 0) {
             return false;
         }
-        long rev=0;
-        int temp=m;
-        while(temp !=0){
-            int digit=(int )(temp %10);
-            rev=rev*10+digit;
-            temp=temp/10;
-        }
-        return (rev==m);
 
-        
+        int reverse = 0;
+        int xcopy = x;
+
+        while (x > 0) {
+            reverse = (reverse * 10) + (x % 10);
+            x /= 10;
+        }
+
+        return reverse == xcopy;        
     }
 }
