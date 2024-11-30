@@ -19,16 +19,16 @@ class Solution {
 
         // return i+1;
 
-        int k = 2;
+        int count = 2;
 
         for (int i = 2; i < nums.length; i++) {
-            if (nums[i] != nums[k - 2]) {
-                nums[k] = nums[i];
-                k++;
+            if (nums[i] != nums[count - 2]) {
+                nums[count] = nums[i];
+                count++;
             }
         }
 
-        return k;        
+        return count;        
     }
 }
     
