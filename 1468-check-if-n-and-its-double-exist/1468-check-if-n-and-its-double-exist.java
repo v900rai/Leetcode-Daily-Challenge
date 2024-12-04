@@ -7,6 +7,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 // If i != j and arr[i] is 2 times arr[j]
                 if (i != j && arr[i] == 2 * arr[j]) {
+                    // i ka do times hona chaiye 
                     return true;
                 }
             }
