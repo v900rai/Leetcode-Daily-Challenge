@@ -1,6 +1,7 @@
 class Solution {
     public boolean canMakeSubsequence(String str1, String str2) {
         int m = str1.length();
+        // dono ka length nukal liya hu 
         int n = str2.length();
         
         if (n > m) {
