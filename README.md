@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3451-string-compression-iii) |
