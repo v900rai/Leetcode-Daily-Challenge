@@ -8,22 +8,20 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- class Solution {
-public ListNode mergeTwoLists(ListNode l1, ListNode l2){
-		if(l1 == null)
-         return l2;// base case h adge case krna hota h 
-		if(l2 == null) 
-        return l1;
-
-        //m yaha par recursion use kiya hu 
-		if(l1.val < l2.val){
-			l1.next = mergeTwoLists(l1.next, l2);
-			return l1;
-		} else{
-			l2.next = mergeTwoLists(l1, l2.next);
-			return l2;
-		}
+class Solution {
+    public ListNode mergeTwoLists(ListNode a, ListNode b) {
+        if(a==null)
+        return b;
+        if(b==null)
+        return a;
+        if(a.val<b.val){
+            a.next=mergeTwoLists(a.next, b);
+            return a;
+        }
+        else{
+            b.next=mergeTwoLists(a, b.next );
+            return b;
+        }
+        
+    }
 }
-
- }
- 
