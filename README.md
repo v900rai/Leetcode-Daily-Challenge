@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2089-maximum-matrix-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
