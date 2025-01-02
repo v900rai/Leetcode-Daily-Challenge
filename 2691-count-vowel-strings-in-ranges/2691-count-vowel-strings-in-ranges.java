@@ -1,33 +1,32 @@
 class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
-         int N = words.length;
-        int Q = queries.length;
-        int[] result = new int[Q];
-        int[] cumSum = new int[N];
-        
-        // Build cumulative sum array
-        int sum = 0;
-        for (int i = 0; i < N; i++) {
-            if (isVowel(words[i].charAt(0)) && isVowel(words[i].charAt(words[i].length() - 1))) {
-                sum++;
-            }
-            cumSum[i] = sum;
+        int n = words.length;
+        int prefixSum[] = new int[n];
+        prefixSum[0] = isVowel(words[0]);
+        for(int i=1;i<n;i++){
+            prefixSum[i] = prefixSum[i-1] + isVowel(words[i]);
         }
-        
-        // Process each query
-        for (int i = 0; i < Q; i++) {
+        int m = queries.length;
+        int ans[] = new int[m];
+        for(int i=0;i<m;i++){
             int l = queries[i][0];
             int r = queries[i][1];
-            result[i] = cumSum[r] - (l > 0 ? cumSum[l - 1] : 0);
+            int res = prefixSum[r]; 
+            if(l!=0){
+                res-= prefixSum[l-1];
+            }
+            ans[i] = res;
         }
-        
-        return result;
+        return ans;
     }
-    
-    // Helper function to check if a character is a vowel
-    private boolean isVowel(char ch) {
-        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
+
+    public int isVowel(String word){
+        HashSet<Character> set = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+        char first = word.charAt(0);
+        char last = word.charAt(word.length()-1);
+        if(set.contains(first) && set.contains(last)){
+            return 1;
+        }
+        return 0;
     }
 }
-        
-    
