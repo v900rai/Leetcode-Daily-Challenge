@@ -10,7 +10,7 @@ class Solution {
 
         long leftSum = 0;
         long rightSum = 0;
-        int split = 0;
+        int splitCount = 0;
 
         // Iterate through the array to calculate leftSum and rightSum
         for (int i = 0; i < n - 1; i++) {
@@ -18,11 +18,11 @@ class Solution {
             rightSum = sum - leftSum;
 
             if (leftSum >= rightSum) {
-                split++;
+                splitCount++;
             }
         }
 
-        return split;
+        return splitCount;
     }
 } 
     
