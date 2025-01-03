@@ -1,26 +1,27 @@
 class Solution {
     public int waysToSplitArray(int[] nums) {
-        int n=nums.length;
-        long[] cumSum = new long[n];
+          int n = nums.length;
 
-        cumSum[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            cumSum[i] = cumSum[i - 1] + nums[i];
+        // Calculate the total sum of the array
+        long sum = 0;
+        for (int num : nums) {
+            sum += num;
         }
-        int split=0;
-        
-        // Iterate krna h overall 
+
+        long leftSum = 0;
+        long rightSum = 0;
+        int split = 0;
+
+        // Iterate through the array to calculate leftSum and rightSum
         for (int i = 0; i < n - 1; i++) {
-            long leftSum = cumSum[i];
-            long rightSum = cumSum[n - 1] - cumSum[i];
-            
+            leftSum += nums[i];
+            rightSum = sum - leftSum;
+
             if (leftSum >= rightSum) {
                 split++;
             }
         }
-        
+
         return split;
-    
-        
     }
 }
