@@ -3,6 +3,8 @@ class Solution {
           HashSet<Character> set = new HashSet<>();
         int n = s.length();
         for(int i=0;i<n;i++){
+
+
             set.add(s.charAt(i)); //a,b,c
         }
 
@@ -18,7 +20,9 @@ class Solution {
                     last = i;
                 }
             }
-            if(first == last) continue;
+
+            if(first == last) 
+            continue;
             HashSet<Character> set1 = new HashSet<>();
             for(int i=first+1;i<last;i++){
                 set1.add(s.charAt(i));
