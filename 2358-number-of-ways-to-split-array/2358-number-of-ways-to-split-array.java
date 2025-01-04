@@ -12,7 +12,7 @@ class Solution {
         long rightSum = 0;
         int splitCount = 0;
 
-        // Iterate through the array to calculate leftSum and rightSum
+        // overall krna h  Iterate through the array to calculate leftSum and rightSum
         for (int i = 0; i < n - 1; i++) {
             leftSum += nums[i];
             rightSum = sum - leftSum;
