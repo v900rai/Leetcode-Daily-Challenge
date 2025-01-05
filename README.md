@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
