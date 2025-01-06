@@ -1,19 +1,20 @@
 
-       class Solution {
+    class Solution {
     public int majorityElement(int[] nums) {
-        int condidate=0;
+        int vishalrai=0;
         int count=0;
         for(int i=0; i<nums.length; i++){
             if(count==0){
-                condidate=nums[i];
+                vishalrai=nums[i];
             }
-            if(condidate==nums[i]){
+            if(vishalrai==nums[i]){
                 count++;
             }
             else{
                 count--;
             }
         }
-        return condidate;
+        return vishalrai;
+
     }
-       }
+    }
