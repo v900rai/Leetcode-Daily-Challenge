@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3451-string-compression-iii) |
 ## Prefix Sum
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -442,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
