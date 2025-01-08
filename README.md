@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
