@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
+| [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1524-string-matching-in-an-array) |
