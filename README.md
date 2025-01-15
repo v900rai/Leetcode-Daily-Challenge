@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
