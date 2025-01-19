@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
