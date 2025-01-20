@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < price.length; i++){
             minSofar = Math.min(minSofar, price[i]); // Update minimum price
             int profit = price[i] - minSofar; // Calculate profit with the current price
-            maxProfit = Math.max(maxProfit, profit); // Update maxProfit
+            maxProfit = Math.max(maxProfit, profit);// Update maxProfit
         }
         
         return maxProfit;
