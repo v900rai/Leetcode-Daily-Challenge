@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0151-reverse-words-in-a-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
