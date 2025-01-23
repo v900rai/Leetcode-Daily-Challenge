@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0520-detect-capital) |
