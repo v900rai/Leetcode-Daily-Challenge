@@ -3,8 +3,8 @@ class Solution {
         int ans = Integer.MIN_VALUE;
         for(int person =0; person <accounts.length;person++){
             int sum =0;
-            for(int account =0 ;account<accounts[person].length;account++){
-                sum+=accounts[person][account];
+            for(int i =0;  i<accounts[person].length; i++){
+                sum+=accounts[person][i];
             }
             if(sum>ans)
             {
