@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
+| [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
