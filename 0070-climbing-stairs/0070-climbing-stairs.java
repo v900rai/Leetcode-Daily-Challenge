@@ -4,15 +4,15 @@ class Solution {
             return 1;
         }
         
-        int a = 1; 
-        int b=1;
+        int num1= 1; 
+        int num2=1;
         
         for (int i = 2; i <= n; i++) {
-            int temp = a + b; 
-            a = b; 
-            b = temp; 
+            int temp = num1+num2;
+            num1=num2;
+            num2= temp; 
         }
         
-        return b; 
+        return num2; 
     }
 }
