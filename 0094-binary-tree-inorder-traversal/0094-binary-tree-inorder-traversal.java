@@ -17,12 +17,28 @@ class Solution {
       List<Integer> list=new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
         
-        if(root==null) 
-        return list;
-        inorderTraversal(root.left);
-        list.add(root.val);
-        inorderTraversal(root.right);
-        return list;
+        // if(root==null) 
+        // return list;
+        // inorderTraversal(root.left);
+        // list.add(root.val);
+        // inorderTraversal(root.right);
+        // return list;
 
+
+//noemal function h ye 
+        List<Integer> res = new ArrayList<>();
+
+        inorder(root, res);
+        return res;        
     }
+
+    private void inorder(TreeNode node, List<Integer> res) {
+        if (node == null) {
+            return;
+        }
+        inorder(node.left, res);
+        res.add(node.val);
+        inorder(node.right, res);
+    }    
+
 }
