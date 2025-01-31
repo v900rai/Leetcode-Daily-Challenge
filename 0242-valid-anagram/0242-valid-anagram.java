@@ -4,7 +4,7 @@ class Solution {
             return  false;
         }
          // Convert strings to character arrays and sort them
-        char[] sArray = s.toCharArray();
+        char [] sArray=s.toCharArray();
         char[] tArray = t.toCharArray();
         Arrays.sort(sArray);
         Arrays.sort(tArray);
