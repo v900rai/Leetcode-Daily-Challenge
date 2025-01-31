@@ -1,6 +1,6 @@
 class Solution {
     public int[][] construct2DArray(int[] original, int m, int n) {
-        if( m*n !=original.length){
+        if(original.length !=m*n){
             return new int[0][0];
         }
         //initialize the 2d arrays
