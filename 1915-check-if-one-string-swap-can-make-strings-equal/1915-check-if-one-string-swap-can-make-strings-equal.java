@@ -7,10 +7,13 @@ class Solution {
         for(int p=0;p<n;p++){
             if(s1.charAt(p)!=s2.charAt(p)){
                 count++;
-                if(count>2) return false;
+                if(count>2) 
+                return false;
                 else{
-                    if(count == 1) i=p;
-                    else j=p;
+                    if(count == 1) 
+                    i=p;
+                    else 
+                    j=p;
                 }
             }
         }
