@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2685-first-completely-painted-row-or-column) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
