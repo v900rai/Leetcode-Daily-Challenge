@@ -25,8 +25,8 @@ class Solution {
         // return list;
 
 
-//noemal function h ye 
-        List<Integer> res = new ArrayList<>();
+    //normal function has been created
+        List<Integer> res=new ArrayList<>();
 
         inorder(root, res);
         return res;        
