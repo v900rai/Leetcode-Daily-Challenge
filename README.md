@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
 | ------- |
