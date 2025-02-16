@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
