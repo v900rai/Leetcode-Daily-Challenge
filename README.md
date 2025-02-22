@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1502-construct-k-palindrome-strings) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1558-course-schedule-iv) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Sliding Window
 |  |
