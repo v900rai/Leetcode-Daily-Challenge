@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2058-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
