@@ -1,13 +1,13 @@
 class Solution {
-      public int maxAbsoluteSum(int[] A) {
-        int sum=0;
-        int min = 0;
-        int  max = 0;
-        for (int a: A) {
-            sum += a;
-            min = Math.min(min, sum);
-            max = Math.max(max, sum);
+    public int maxAbsoluteSum(int[] A) {
+        int minPrefix = 0, maxPrefix = 0, prefixSum = 0;
+        
+        for (int a : A) {
+            prefixSum += a;
+            minPrefix = Math.min(minPrefix, prefixSum);
+            maxPrefix = Math.max(maxPrefix, prefixSum);
         }
-        return max - min;
+        
+        return maxPrefix - minPrefix;
     }
 }
