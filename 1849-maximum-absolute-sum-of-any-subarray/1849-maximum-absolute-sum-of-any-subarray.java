@@ -1,10 +1,12 @@
 class Solution {
       public int maxAbsoluteSum(int[] A) {
-        int s = 0, min = 0, max = 0;
+        int sum=0;
+        int min = 0;
+        int  max = 0;
         for (int a: A) {
-            s += a;
-            min = Math.min(min, s);
-            max = Math.max(max, s);
+            sum += a;
+            min = Math.min(min, sum);
+            max = Math.max(max, sum);
         }
         return max - min;
     }
