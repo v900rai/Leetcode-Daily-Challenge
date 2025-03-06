@@ -1,6 +1,7 @@
 class Solution {
      public int romanToInt(String s) {
-         int ans = 0, num = 0;
+         int ans = 0;
+         int num = 0;
         for (int i = s.length()-1; i >= 0; i--) {
             switch(s.charAt(i)) {
                 case 'I': num = 1; break;
