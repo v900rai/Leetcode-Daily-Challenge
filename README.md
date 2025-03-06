@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
@@ -740,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
