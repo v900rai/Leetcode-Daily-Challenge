@@ -6,9 +6,9 @@ class Solution {
         // initialize the search rage for the squre 
         int start=0;
         int end=x;
-        int mid=0;
+        
         while(start<=end){
-            mid=start+(end-start)/2;
+          int   mid=start+(end-start)/2;
             // if squre the middle value is greater then x
             if(mid*mid==x){
                 return mid;
