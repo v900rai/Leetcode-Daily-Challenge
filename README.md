@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
