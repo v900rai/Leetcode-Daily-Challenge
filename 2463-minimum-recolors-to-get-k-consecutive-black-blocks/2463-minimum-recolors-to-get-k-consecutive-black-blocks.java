@@ -1,7 +1,8 @@
 class Solution {
     public int minimumRecolors(String blocks, int k) {
         int n = blocks.length();  // स्ट्रिंग की लंबाई
-        int i = 0, j = 0;  // स्लाइडिंग विंडो के लिए दो pointers
+        int i = 0;
+        int  j = 0;  // स्लाइडिंग विंडो के लिए दो pointers
         int result = k;  // अधिकतम बदलाव k से ज्यादा नहीं होंगे, इसलिए initial result = k
         int W = 0;  // विंडो में मौजूद 'W' (White Blocks) की गिनती
 
