@@ -10,24 +10,32 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode slow=head;
-        ListNode fast=head;
-        for(int i=0; i<n; i++){
-            fast=fast.next;
-        }
-        if(fast== null){
-            return head.next;
-        }
-         while(fast.next!= null){
-            fast=fast.next;
-            slow=slow.next;
-         }
+        if (head == null) return null; // Edge case: खाली Linked List
+        
+        ListNode dummy = new ListNode(0); // Dummy Node बनाकर Edge Case संभालें
+        dummy.next = head;
+        ListNode slow = dummy;
+        ListNode fast = dummy;
 
-          ListNode temp=slow.next;
-          slow.next=slow.next.next;
-          temp= null;
-          return head;
-        
-        
+        // Fast को n+1 steps आगे बढ़ाएं
+        for (int i = 0; i <= n; i++) {
+            if (fast != null) 
+                fast = fast.next;
+            else 
+                return head; // Edge case: अगर n गलत हो (Linked List से बड़ा)
+        }
+
+        // Slow को सही position तक लाएं
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
+        }
+
+        // Target Node को हटाएं
+        ListNode temp = slow.next;
+        slow.next = slow.next.next;
+        temp = null; // Memory cleanup
+
+        return dummy.next; // नया Head लौटाएं
     }
 }
