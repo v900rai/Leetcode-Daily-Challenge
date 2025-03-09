@@ -13,21 +13,21 @@
  *     }
  * }
  */
+
+
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result=new ArrayList<>();
-        fun(root,result);
-        return result;
-
-        
+        List<Integer> list = new ArrayList<>(); // हर कॉल के लिए नई लिस्ट
+        postorderHelper(root, list);
+        return list;
     }
-    private void fun(TreeNode root, List<Integer> result){
-        if(root!=null){
-            fun(root.left, result);
-            fun(root.right, result);
-            result.add(root.val);
+
+    private void postorderHelper(TreeNode root, List<Integer> list) {
+        if (root == null) {
+            return;
         }
-
+        postorderHelper(root.left, list);
+        postorderHelper(root.right, list);
+        list.add(root.val);
     }
-
 }
