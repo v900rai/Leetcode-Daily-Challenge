@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0684-redundant-connection) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
