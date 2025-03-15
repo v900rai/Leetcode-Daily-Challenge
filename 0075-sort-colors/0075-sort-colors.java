@@ -7,9 +7,9 @@ class Solution {
 
         while (mid <= high) {
             if (nums[mid] == 0) {
-                swap(nums,mid,low);
-                low++;
-                mid++;
+               swap( nums, mid ,low);
+               low++;
+               mid++;
             } else if (nums[mid] == 1) {
                 mid++;
             } else { 
