@@ -1,6 +1,7 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        if (nums.length == 0) return nums; 
+        if (nums.length == 0)
+         return nums; 
         // यदि array खाली है, तो उसे 그대로 return करें
         
         QuickSort(nums, 0, nums.length - 1);
