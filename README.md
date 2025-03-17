@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3643-zero-array-transformation-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Database
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3195-separate-black-and-white-balls) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
 |  |
 | ------- |
