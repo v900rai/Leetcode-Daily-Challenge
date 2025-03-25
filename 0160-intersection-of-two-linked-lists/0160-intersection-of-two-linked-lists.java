@@ -40,7 +40,7 @@ class Solution {
         
         while (headA != null && headB != null) {
             if (headA == headB) {
-                return headA;
+                return headB;
             }
             headA = headA.next;
             headB = headB.next;
