@@ -10,7 +10,8 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if (head == null) return null; // Edge case: खाली Linked List
+        if (head == null) 
+        return null; // Edge case: खाली Linked List
         
         ListNode dummy = new ListNode(0); // Dummy Node बनाकर Edge Case संभालें
         dummy.next = head;
