@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2649-count-total-number-of-colored-cells) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
