@@ -17,10 +17,14 @@ class Solution {
 
    public int tribonacci(int n) {  
     // Base case: If n is 0 or 1, return n directly  
-    if (n < 2) return n;  
+    if (n < 2)
+     return n;  
 
     // Initialize the first three numbers of the Tribonacci sequence  
-    int a = 0, b = 1, c = 1, d;  
+    int a = 0;
+    int  b = 1;
+    int c = 1;
+    int d;  
 
     // Iterate while n is greater than 2 (since we already have first three values)
     while (n-- > 2) {  
