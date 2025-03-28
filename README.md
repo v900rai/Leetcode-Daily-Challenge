@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1646-kth-missing-positive-number) |
