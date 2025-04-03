@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -882,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -948,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
