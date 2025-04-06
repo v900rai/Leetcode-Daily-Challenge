@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0374-guess-number-higher-or-lower) |
