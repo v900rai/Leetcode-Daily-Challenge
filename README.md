@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
