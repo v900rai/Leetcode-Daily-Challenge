@@ -10,9 +10,11 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        if (head == null) return null;
+        if (head == null) 
+        return null;
         
-        ListNode slow = head, fast = head;
+        ListNode slow = head;
+        ListNode fast = head;
         
         while (fast != null && fast.next != null) {
             slow = slow.next; // Move one step
