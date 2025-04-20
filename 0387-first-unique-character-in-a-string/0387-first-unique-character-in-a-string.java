@@ -6,6 +6,7 @@ class Solution {
         // Step 2: Count the frequency of each character in the string
         for(char ch: s.toCharArray()){
             count[ch-'a']++;
+            
         }
         
         // Step 3: Find the first character with a frequency of 1
