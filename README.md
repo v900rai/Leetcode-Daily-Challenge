@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0096-unique-binary-search-trees) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0191-number-of-1-bits) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
