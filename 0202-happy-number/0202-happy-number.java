@@ -1,22 +1,26 @@
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
 class Solution {
     public boolean isHappy(int n) {
         Set<Integer> seen = new HashSet<>();
-        
-        while (seen.add(n)) {  // अगर n पहले से set में नहीं है, तो उसे add करो
-            int sumOfSquares = 0;
-            
-            while (n > 0) {
-                int digit = n % 10;
-                sumOfSquares += digit * digit;
-                n /= 10;
-            }
-            
-            if (sumOfSquares == 1) return true;
-            n = sumOfSquares;
+
+        while (n != 1 && !seen.contains(n)) {
+            seen.add(n);
+            n = getSumOfSquares(n);
         }
-        
-        return false;  // Cycle detect हो गई, मतलब happy number नहीं है
+
+        return n == 1;
+    }
+
+    // Helper method to calculate sum of squares of digits
+    private int getSumOfSquares(int num) {
+        int sum = 0;
+        while (num > 0) {
+            int digit = num % 10;
+            sum += digit * digit;
+            num /= 10;
+        }
+        return sum;
     }
 }
