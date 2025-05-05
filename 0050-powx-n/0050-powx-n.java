@@ -1,23 +1,25 @@
 class Solution {
     public double myPow(double x, int n) {
-        
-        if(n < 0){
-            n = -n;
+        // Convert n to long to safely handle Integer.MIN_VALUE
+        long N = n;
+
+        // If n is negative, convert it to positive and take reciprocal of x
+        if (N < 0) {
             x = 1 / x;
+            N = -N;
         }
-        
-        double pow = 1;
-        
-        while(n != 0){
-            if((n & 1) != 0){
-                pow *= x;
-            } 
-                
-            x *= x;
-            n >>>= 1;
-            
+
+        double result = 1.0;
+
+        // Fast exponentiation using bit manipulation
+        while (N > 0) {
+            if ((N % 2) == 1) {
+                result *= x;
+            }
+            x *= x;       // Square the base
+            N /= 2;       // Halve the exponent
         }
-        
-        return pow;
+
+        return result;
     }
 }
