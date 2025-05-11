@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3227-find-missing-and-repeated-values) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3455-minimum-length-of-string-after-operations) |
