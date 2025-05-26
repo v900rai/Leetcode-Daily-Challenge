@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0572-subtree-of-another-tree) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0572-subtree-of-another-tree) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0572-subtree-of-another-tree) |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
