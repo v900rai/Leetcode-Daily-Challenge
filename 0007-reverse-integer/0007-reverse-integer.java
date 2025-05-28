@@ -1,18 +1,18 @@
 class Solution {
   public int reverse(int num) {
-    long reversedNumber = 0;
+    long revers = 0;
 
     while (num != 0) {
       int digit = num % 10;
-      reversedNumber = reversedNumber * 10 + digit;
-      num /= 10;
+      revers = revers * 10 + digit;
+      num = num/10;
 
       // Overflow check (Integer limit से बाहर जाने पर return 0)
-      if (reversedNumber > Integer.MAX_VALUE || reversedNumber < Integer.MIN_VALUE) {
+      if (revers> Integer.MAX_VALUE || revers< Integer.MIN_VALUE) {
         return 0;
       }
     }
 
-    return (int) reversedNumber;
+    return (int) revers;
   }
 }
