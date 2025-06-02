@@ -10,10 +10,9 @@ class Solution {
         while(start<=end){
           int   mid=start+(end-start)/2;
             // if squre the middle value is greater then x
-            if(mid*mid==x){
-                return mid;
-
-            }
+           if(mid*mid==x){
+            return mid;
+           }
             else if((long) mid *mid <x){
                 start=mid+1;
             }
