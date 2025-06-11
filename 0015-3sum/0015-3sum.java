@@ -3,7 +3,9 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         // Using a Set to store the result to automatically handle duplicate triplets
-        Set<List<Integer>> res = new HashSet<>();
+       // Set<List<Integer>> res = new HashSet<>();
+        Set<List<Integer>> res=new HashSet<>();
+
 
         // Edge case: if array is empty, return empty list
         if (nums.length == 0)
