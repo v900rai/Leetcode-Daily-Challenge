@@ -1,17 +1,17 @@
 class Solution {
-  public boolean isPalindrome(int x) {
-      boolean flag=true;
+    public boolean isPalindrome(int x) {
+      boolean flag =true;
       if(x<0){
         return false;
       }
       int rev=0;
-      int temp=x ;
+      int temp=x;
       while(temp!=0){
         int digit=temp%10;
         rev=rev*10+digit;
         temp=temp/10;
+
       }
-      //ager dono equal hua to 
       return (rev==x);
         
     }
