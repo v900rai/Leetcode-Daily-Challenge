@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Sliding Window
@@ -1224,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Combinatorics
 |  |
 | ------- |
