@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1049-minimum-domino-rotations-for-equal-row) |
