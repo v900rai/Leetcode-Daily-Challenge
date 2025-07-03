@@ -17,11 +17,11 @@ class Solution {
         }
         return true;
     }
-    public boolean isPalindrome(String s, int i, int j){
-        while(i <= j){
-            if(s.charAt(i) == s.charAt(j)){
-                i++;
-                j--;
+    public boolean isPalindrome(String s, int left, int right){
+        while(left<=right){
+            if(s.charAt(left) == s.charAt(right)){
+                left++;
+                right--;
             }
             else return false;
         }
