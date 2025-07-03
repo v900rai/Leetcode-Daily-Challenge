@@ -18,14 +18,17 @@ class Solution {
         
         int pivot = nums[(start + end) / 2];
          // मध्य तत्व को pivot चुनते हैं
-        int left = start, right = end;
+        int left = start;
+        int right = end;
 
         while (left <= right) {
             // Left pointer को तब तक बढ़ाएँ जब तक हमें pivot से बड़ा तत्व ना मिले
-            while (nums[left] < pivot) left++;
+            while (nums[left] < pivot)
+             left++;
 
             // Right pointer को तब तक घटाएँ जब तक हमें pivot से छोटा तत्व ना मिले
-            while (nums[right] > pivot) right--;
+            while (nums[right] > pivot) 
+            right--;
             
             if (left <= right) { 
                 // यदि left <= right, तो swap करें
