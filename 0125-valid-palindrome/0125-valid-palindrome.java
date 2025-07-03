@@ -11,6 +11,9 @@ class Solution {
             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++; // skip non-alphanumeric characters from the left
             }
+            // while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
+            //   left++;
+            // }
 
             // Move the right pointer to the left if current character is not a letter or digit
             while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
