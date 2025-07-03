@@ -18,13 +18,13 @@ class Solution {
             } 
             // If the sum is greater than the target, move the right pointer to the left
             // This decreases the sum because the array is sorted in ascending order
-            else if (sum > target) {
-                right--;
+            else if (sum < target) {
+                left++;
             } 
             // If the sum is less than the target, move the left pointer to the right
             // This increases the sum because the array is sorted in ascending order
             else {
-                left++;
+                right--;
             }
         }
 
