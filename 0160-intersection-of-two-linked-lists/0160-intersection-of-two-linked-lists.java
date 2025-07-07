@@ -9,43 +9,21 @@
  *     }
  * }
  */
-class Solution {
+public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode curr = headA;
-        int a = 0;
-        int b = 0;
+        if (headA == null || headB == null) return null;
         
-        while (curr != null) {
-            a++;
-            curr = curr.next;
+        ListNode a = headA;
+        ListNode b = headB;
+        
+        // जब तक वे इंटरसेक्ट नहीं करते (Until they intersect)
+        while (a != b) {
+            // अगर एक लिस्ट खत्म हो जाए, दूसरी के हेड पर शुरू करें
+            // (If one list ends, start from head of other)
+            a = a == null ? headB : a.next;
+            b = b == null ? headA : b.next;
         }
         
-        curr = headB;
-        while (curr != null) {
-            b++;
-            curr = curr.next;
-        }
-        
-        int diff = Math.abs(a - b);
-        
-        if (a < b) {
-            while (diff-- > 0) {
-                headB = headB.next;
-            }
-        } else {
-            while (diff-- > 0) {
-                headA = headA.next;
-            }
-        }
-        
-        while (headA != null && headB != null) {
-            if (headA == headB) {
-                return headB;
-            }
-            headA = headA.next;
-            headB = headB.next;
-        }
-        
-        return null;
+        return a; // इंटरसेक्शन पॉइंट या null (Intersection point or null)
     }
 }
