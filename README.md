@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0217-contains-duplicate) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0367-valid-perfect-square) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1314,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2140-longest-subsequence-repeated-k-times) |
