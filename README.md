@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2551-apply-operations-to-an-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1159,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2616-maximal-score-after-applying-k-operations) |
