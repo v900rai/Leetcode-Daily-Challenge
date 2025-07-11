@@ -17,17 +17,28 @@
 
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>(); // हर कॉल के लिए नई लिस्ट
-        postorderHelper(root, list);
+        // List<Integer> list = new ArrayList<>(); // हर कॉल के लिए नई लिस्ट
+        // postorderHelper(root, list);
+        // return list;
+        List<Integer> list=new ArrayList<Integer>();
+        postorderHelper(root , list);
         return list;
     }
 
-    private void postorderHelper(TreeNode root, List<Integer> list) {
-        if (root == null) {
-            return;
-        }
-        postorderHelper(root.left, list);
-        postorderHelper(root.right, list);
-        list.add(root.val);
+    // private void postorderHelper(TreeNode root, List<Integer> list) {
+    //     if (root == null) {
+    //         return;
+    //     }
+    //     postorderHelper(root.left, list);
+    //     postorderHelper(root.right, list);
+    //     list.add(root.val);
+    // }
+    private void postorderHelper(TreeNode root, List<Integer> list){
+      if(root ==null){
+        return ;
+      }
+      postorderHelper(root.left, list);
+      postorderHelper(root.right, list);
+      list.add(root.val);
     }
 }
