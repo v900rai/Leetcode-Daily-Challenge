@@ -9,27 +9,24 @@
  * }
  */
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy = new ListNode(0); // डमी नोड (Dummy node)
-        dummy.next = head;
-        
-        ListNode first = dummy; // पहला पॉइंटर (First pointer)
-        ListNode second = dummy; // दूसरा पॉइंटर (Second pointer)
-        
-        // पहले पॉइंटर को n+1 स्थान आगे ले जाएं (Move first pointer n+1 steps ahead)
-        for (int i = 1; i <= n + 1; i++) {
-            first = first.next;
-        }
-        
-        // दोनों पॉइंटरों को एक साथ आगे बढ़ाएं (Move both pointers together)
-        while (first != null) {
-            first = first.next;
-            second = second.next;
-        }
-        
-        // nth नोड को हटाएं (Remove nth node)
-        second.next = second.next.next;
-        
-        return dummy.next; // नया हेड (New head)
+    
+
+public ListNode removeNthFromEnd(ListNode head, int n) {
+    ListNode dummy = new ListNode(0);
+    dummy.next = head;
+    ListNode fast = dummy;
+    ListNode slow = dummy;
+    // Move fast `n` steps ahead
+    for (int i = 0; i <= n; i++) {
+        fast = fast.next;
     }
+    // Move both until fast reaches end
+    while (fast != null) {
+        slow = slow.next;
+        fast = fast.next;
+    }
+    // Remove the nth node
+    slow.next = slow.next.next;
+    return dummy.next;
+}
 }
