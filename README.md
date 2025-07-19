@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1558-course-schedule-iv) |
