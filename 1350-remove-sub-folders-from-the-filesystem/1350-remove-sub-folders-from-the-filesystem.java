@@ -1,25 +1,24 @@
-
 class Solution {
     public List<String> removeSubfolders(String[] folder) {
-        // Sort the folder array lexicographically
+        // Sort the folders lexicographically so parent folders come before their subfolders
         Arrays.sort(folder);
-        List<String> result = new ArrayList<>();
         
-        // The first folder can never be a sub-folder after sorting
-        result.add(folder[0]);
-
-        // Iterate through the sorted folders
+        // Initialize result list with the first folder
+        List<String> ans = new ArrayList<>();
+        ans.add(folder[0]);
+        
+        // Iterate through remaining folders starting from index 1
         for (int i = 1; i < folder.length; i++) {
-            String currFolder = folder[i];
-            String lastFolder = result.get(result.size() - 1);
-            lastFolder += "/";  // Add '/' to the last folder to check for sub-folder
-
-            // If the current folder does not start with the last folder, it is not a sub-folder
-            if (!currFolder.startsWith(lastFolder)) {
-                result.add(currFolder);
+            // Get the last added folder path and add a trailing slash
+            String lastFolder = ans.get(ans.size() - 1) + "/";
+            
+            // Check if current folder starts with lastFolder
+            // If it doesn't start with lastFolder, then it's not a subfolder
+            if (!folder[i].startsWith(lastFolder)) {
+                ans.add(folder[i]);
             }
         }
-
-        return result;
+        
+        return ans;
     }
 }
