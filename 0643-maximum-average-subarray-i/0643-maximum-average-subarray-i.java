@@ -3,7 +3,7 @@ class Solution {
         // Calculate the sum of the first window of size k
         int sum = 0;
         for (int i = 0; i < k; i++) {
-            sum += nums[i];
+            sum=sum+nums[i];
         }
         
         // Initialize maxSum as the sum of the first window
