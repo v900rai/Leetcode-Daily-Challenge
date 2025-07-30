@@ -1,6 +1,8 @@
 class Solution {
         public int longestSubarray(int[] nums) {
-        int max = 0, longest = 1, cur = 0;
+        int max = 0;
+        int  longest = 1;
+        int  cur = 0;
         for (int num : nums) {
             max = Math.max(max, num);
         }
