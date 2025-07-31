@@ -10,17 +10,17 @@ class Solution {
     
     private int negativeEachRow(int[] row) {
         int res = 0;
-        int l = 0;
-        int r = row.length - 1;
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
+        int left = 0;
+        int right = row.length - 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
             // if midPoint is positive, go to the right side
             // if midPoint is negative, count the right side(because they are all negative) and go to left side.
             if (row[mid] >= 0) {
-                l = mid + 1;
+                left = mid + 1;
             } else if (row[mid] < 0) {
-                res += r - mid + 1;
-                r = mid - 1;
+                res += right - mid + 1;
+                right = mid - 1;
             }
         }
         return res;
