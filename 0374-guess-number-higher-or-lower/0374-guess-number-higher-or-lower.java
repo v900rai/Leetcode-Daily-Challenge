@@ -9,8 +9,8 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        int left = 1;
-        int  right = n;
+        int  left   = 1;
+        int  right  = n;
         
         while (left <= right) { // Condition changed from left < right to left <= right
             int guess_no = left + (right - left) / 2;
