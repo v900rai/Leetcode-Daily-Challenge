@@ -4,14 +4,17 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
         int[] result = new int[nums.length];
-        int left = 0, right = nums.length - 1;
+        int left = 0;
+        int right = nums.length - 1;
         
         for(int i = 0; i < nums.length; i++) {
             if(nums[i] < pivot) {
-                result[left++] = nums[i];
+                result[left] = nums[i];
+                left++;
             }
             if(nums[nums.length - 1 - i] > pivot) {
-                result[right--] = nums[nums.length - 1 - i];
+                result[right] = nums[nums.length - 1 - i];
+                right--;
             }
         }
         
