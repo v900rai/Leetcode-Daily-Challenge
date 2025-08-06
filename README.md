@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
