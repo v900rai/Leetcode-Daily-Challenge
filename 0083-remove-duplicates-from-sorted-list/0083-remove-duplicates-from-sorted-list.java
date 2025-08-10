@@ -15,7 +15,7 @@ class Solution {
             return head; //adge case h ye
         }
         ListNode current=head;
-        while(current.next!=null){
+        while(current.next!=null && current!=null){
             if(current.val== current.next.val){
                 current.next=current.next.next;
             }
