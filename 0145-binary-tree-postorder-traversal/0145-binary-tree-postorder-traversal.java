@@ -25,14 +25,7 @@ class Solution {
         return list;
     }
 
-    // private void postorderHelper(TreeNode root, List<Integer> list) {
-    //     if (root == null) {
-    //         return;
-    //     }
-    //     postorderHelper(root.left, list);
-    //     postorderHelper(root.right, list);
-    //     list.add(root.val);
-    // }
+   
     private void postorderHelper(TreeNode root, List<Integer> list){
       if(root ==null){
         return ;
