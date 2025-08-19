@@ -9,7 +9,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             
             if (nums[i] == 0)
-                countSubArray += 1;
+                countSubArray =countSubArray + 1;
             else
                 countSubArray = 0;
             
