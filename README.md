@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1677-matrix-diagonal-sum) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1236-n-th-tribonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
