@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0682-baseball-game) |
