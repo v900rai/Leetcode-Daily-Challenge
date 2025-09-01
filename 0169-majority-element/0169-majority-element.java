@@ -1,19 +1,21 @@
 class Solution {
-  public int majorityElement(int[] nums) {
-    int candidate = nums[0]; // Initialize candidate
-    int count = 1; // Start count at 1 since we're including nums[0]
-
-    for (int i = 1; i < nums.length; i++) {
-      if (nums[i] == candidate) {
-        count++; // Same as candidate, increase count
-      } else {
-        count--; // Different, decrease count
-        if (count == 0) {
-          candidate = nums[i]; // Change candidate
-          count = 1; // Reset count
+    public int majorityElement(int[] nums) {
+      int condidate=nums[0];
+      int count = 1;
+       for(int i=0; i<nums.length; i++){
+        if(nums[i] == condidate){
+          count++;
         }
-      }
+        else{
+          count--;
+
+          if(count == 0){
+            condidate = nums[i];
+            count = 1;
+          }
+        }
+       }
+       return condidate;
+        
     }
-    return candidate;
-  }
 }
