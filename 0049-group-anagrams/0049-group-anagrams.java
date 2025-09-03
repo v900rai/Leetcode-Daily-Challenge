@@ -18,7 +18,7 @@ class Solution {
             }
             
             // SortedWord वाले group में current word जोड़ें
-            map.get(sortedWord).add(word);
+            map.get (sortedWord).add(word);
         }
         
         // सभी values (anagram groups) को एक list में बदलकर return करें
