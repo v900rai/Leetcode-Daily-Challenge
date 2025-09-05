@@ -1,7 +1,4 @@
 class Solution {
-      
-  
-
 public int[] countBits(int num) {
     int result[] = new int[num + 1];
     int offset = 1;
