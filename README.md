@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
