@@ -6,7 +6,6 @@ class Solution {
       if(xSteps == ySteps){
         return 0;
       }
-
       if(xSteps < ySteps){
         return 1;
       }
