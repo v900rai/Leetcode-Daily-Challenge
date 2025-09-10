@@ -19,9 +19,10 @@ class Solution {
         }
     }
 
-    public static void swap(int nums[], int left, int right) {
-        int temp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = temp;
+  
+    public static void swap(int nums[], int left , int right){
+      int temp =nums[left];
+      nums[left] = nums[right];
+      nums[right] =temp ;
     }
 }
