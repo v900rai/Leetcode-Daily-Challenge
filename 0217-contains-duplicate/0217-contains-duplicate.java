@@ -6,9 +6,7 @@ class Solution {
           return true;
         }
         list.add(nums[i]);
-
       }
-      return false;
-        
+      return false;  
     }
 }
