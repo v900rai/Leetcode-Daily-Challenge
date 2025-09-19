@@ -5,32 +5,19 @@ public class Solution {
             return 0;
         }
         
-        // Initialize variables:
-        // maxProduct - tracks maximum product ending at current position
-        // minProduct - tracks minimum product ending at current position
-        // result - stores the overall maximum product found so far
         int maxProduct = nums[0];
         int minProduct = nums[0];
         int result = nums[0];
         
-        // Dry Run Example: nums = [2, 3, -2, 4]
-        // Initial state: maxP = 2, minP = 2, result = 2
-        
         for (int i = 1; i < nums.length; i++) {
             int current = nums[i];
             
-            // DRY RUN STEP 1: i=1, current=3
-            // DRY RUN STEP 2: i=2, current=-2
-            // DRY RUN STEP 3: i=3, current=4
-            
-            // If current number is negative, swap max and min
-            // Because multiplying by negative flips the relative sizes
             if (current < 0) {
-                // Only executed in STEP 2 (current = -2)
+                
                 int temp = maxProduct;
                 maxProduct = minProduct;
                 minProduct = temp;
-                // After swap in STEP 2: maxP=3, minP=6
+                
             }
             
             // Update max product: either start new subarray (current)
