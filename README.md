@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1146,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -1409,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
