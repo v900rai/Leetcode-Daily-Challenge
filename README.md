@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2227-sum-of-subarray-ranges](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1352,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
+| [2227-sum-of-subarray-ranges](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
