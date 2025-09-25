@@ -13,7 +13,6 @@ class Solution {
         if (head == null || k == 0) {
             return head; // Edge case: Empty list or no rotation needed
         }
-
         // Step 1: Calculate the length of the list
         ListNode curr = head;
         int n = 1; // Start with 1 as we are already at head
@@ -34,6 +33,7 @@ class Solution {
         // Step 4: Find the new tail (n - k - 1) and new head (n - k)
         int stepsToNewHead = n - k;
         ListNode newTail = head;
+
         for (int i = 1; i < stepsToNewHead; i++) {
             newTail = newTail.next;
         }
