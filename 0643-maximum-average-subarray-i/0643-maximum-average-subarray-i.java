@@ -5,9 +5,8 @@ class Solution {
         for (int i = 0; i < k; i++) {
             sum=sum+nums[i];
         }
-        
         // Initialize maxSum as the sum of the first window
-        int maxSum = sum;
+        int maxSum = sum; //lotal sum k maxSum m dal do
 
         // Slide the window through the array
         for (int i = k; i < nums.length; i++) {
