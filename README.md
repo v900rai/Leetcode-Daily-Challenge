@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0679-24-game) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0868-push-dominoes) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
@@ -1060,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0680-valid-palindrome-ii) |
