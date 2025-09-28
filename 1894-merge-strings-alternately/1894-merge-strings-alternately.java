@@ -5,7 +5,6 @@ class Solution {
         
         // Initialize a pointer to traverse both strings
         int i = 0;
-        
         // Loop until we reach the end of either word1 or word2
         while (i < word1.length() || i < word2.length()) {
             // If the current index is within word1's bounds, append the character
