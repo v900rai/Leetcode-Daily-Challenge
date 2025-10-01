@@ -17,9 +17,6 @@
 
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        // List<Integer> list = new ArrayList<>(); // हर कॉल के लिए नई लिस्ट
-        // postorderHelper(root, list);
-        // return list;
         List<Integer> list=new ArrayList<Integer>();
         postorderHelper(root , list);
         return list;
