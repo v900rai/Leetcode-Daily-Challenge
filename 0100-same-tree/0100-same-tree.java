@@ -24,8 +24,8 @@ class TreeNode {
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         // अगर दोनों नोड null हैं, तो ट्री समान हैं
-        if (p == null && q == null) {
-            return true;
+        if(p == null && q == null){
+          return true;
         }
 
         // अगर कोई एक नोड null है और दूसरा नहीं, तो ट्री अलग हैं
