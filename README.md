@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0830-largest-triangle-area) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1283,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-leaf-similar-trees) |
@@ -1377,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
@@ -1410,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1483,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
