@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3791-fruits-into-baskets-iii) |
