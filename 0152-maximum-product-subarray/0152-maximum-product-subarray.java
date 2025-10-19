@@ -10,11 +10,6 @@ class Solution {
             int num = nums[i];
 
             // If num is negative, swap currMax and currMin
-            // if (num < 0) {
-            //     int temp = currMax;
-            //     currMax = currMin;
-            //     currMin = temp;
-            // }
             if(num<0){
               int temp = currMax;
               currMax = currMin;
@@ -22,9 +17,6 @@ class Solution {
             }
 
             // Calculate new currMax and currMin
-            // currMax = Math.max(num, currMax * num);
-            // currMin = Math.min(num, currMin * num);
-
             currMax= Math.max(num, currMax * num);
             currMin = Math.min(num, currMin  * num);
 
