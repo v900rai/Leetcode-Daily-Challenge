@@ -4,7 +4,7 @@ class Solution {
         int left = 0;
         int  right = 0;
         int zeroCount = 0;
-        int maxLen = 0;
+        int maxLen = Integer.MIN_VALUE;
         
         while (right < nums.length) {
             // Agar zero mila to zeroCount badhao
