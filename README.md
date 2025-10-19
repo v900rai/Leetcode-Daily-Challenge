@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1894-merge-strings-alternately) |
@@ -1338,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1432,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
