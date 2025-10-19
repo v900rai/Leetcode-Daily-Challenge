@@ -10,10 +10,15 @@ class Solution {
             int num = nums[i];
 
             // If num is negative, swap currMax and currMin
-            if (num < 0) {
-                int temp = currMax;
-                currMax = currMin;
-                currMin = temp;
+            // if (num < 0) {
+            //     int temp = currMax;
+            //     currMax = currMin;
+            //     currMin = temp;
+            // }
+            if(num<0){
+              int temp = currMax;
+              currMax = currMin;
+              currMin =temp;
             }
 
             // Calculate new currMax and currMin
