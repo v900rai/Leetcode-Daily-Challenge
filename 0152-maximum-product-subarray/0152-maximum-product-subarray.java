@@ -22,8 +22,11 @@ class Solution {
             }
 
             // Calculate new currMax and currMin
-            currMax = Math.max(num, currMax * num);
-            currMin = Math.min(num, currMin * num);
+            // currMax = Math.max(num, currMax * num);
+            // currMin = Math.min(num, currMin * num);
+
+            currMax= Math.max(num, currMax * num);
+            currMin = Math.min(num, currMin  * num);
 
             // Update overall maxProduct
             maxProduct = Math.max(maxProduct, currMax);
