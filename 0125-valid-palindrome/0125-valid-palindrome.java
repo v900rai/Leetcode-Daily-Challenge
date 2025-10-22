@@ -1,37 +1,36 @@
+
+
 class Solution {
-    // Method to check if the given string is a palindrome (ignoring non-alphanumeric characters and case)
     public boolean isPalindrome(String s) {
-        // Initialize two pointers: one from the start and one from the end of the string
-        int left = 0;
-        int right = s.length() - 1;
+        int start = 0;                  // Pointer at the beginning of the string
+        int end = s.length() - 1;       // Pointer at the end of the string
 
-        // Loop until the two pointers meet or cross
-        while (left < right) {
-            // Move the left pointer to the right if current character is not a letter or digit
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++; // skip non-alphanumeric characters from the left
-            }
-            // while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
-            //   left++;
-            // }
-
-            // Move the right pointer to the left if current character is not a letter or digit
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--; // skip non-alphanumeric characters from the right
+        while (start < end) {
+            // Skip non-alphanumeric characters from the left
+            while (start < end && !Character.isLetterOrDigit(s.charAt(start))) {
+                start++;
             }
 
-            // Convert characters to lowercase and compare them
-            if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
-                // If characters do not match, it's not a palindrome
+            // Skip non-alphanumeric characters from the right
+            while (start < end && !Character.isLetterOrDigit(s.charAt(end))) {
+                end--;
+            }
+
+            // Convert both characters to lowercase and compare
+            char startChar = Character.toLowerCase(s.charAt(start));
+            char endChar = Character.toLowerCase(s.charAt(end));
+
+            // If characters don't match, it's not a palindrome
+            if (startChar != endChar) {
                 return false;
             }
 
-            // Move both pointers towards the center for next comparison
-            left++;
-            right--;
+            // Move both pointers towards the center
+            start++;
+            end--;
         }
 
-        // If loop completes without returning false, the string is a palindrome
+        // If all characters matched, it's a palindrome
         return true;
     }
 }
