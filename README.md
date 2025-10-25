@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
