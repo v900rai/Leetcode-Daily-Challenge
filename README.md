@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1542-consecutive-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
