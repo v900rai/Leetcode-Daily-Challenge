@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Set<Integer> window = new HashSet<>();
