@@ -11,9 +11,14 @@ class Solution {
             return true;
 
             // Handle duplicates: shrink the search space
-            if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
-                left++;
-                right--;
+            // if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
+            //     left++;
+            //     right--;
+            // }
+
+            if(nums[left] == nums[mid] && nums[mid] == nums[right]){
+              left++;
+              right--;
             }
             // Left half is sorted
             else if (nums[left] <= nums[mid]) {
