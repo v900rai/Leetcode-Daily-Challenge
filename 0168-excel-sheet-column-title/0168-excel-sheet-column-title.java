@@ -1,13 +1,13 @@
 class Solution {
-    public String convertToTitle(int columnNumber) {
-        StringBuilder str = new StringBuilder();
+    public String convertToTitle(int col) {
+        StringBuilder sb = new StringBuilder();
 
-        while (columnNumber > 0) {
-            int index = (columnNumber - 1) % 26;
-            str.insert(0, (char) ('A' + index));
-            columnNumber = (columnNumber - 1) / 26;
+        while (col > 0) {
+            int r = (col - 1) % 26; // remainder for the last letter
+            sb.append((char)(r + 'A')); // convert 0-25 → 'A'-'Z'
+            col = (col - 1) / 26; // move to the next “digit”
         }
-        return str.toString();
 
+        return sb.reverse().toString(); // reverse to get correct order
     }
 }
