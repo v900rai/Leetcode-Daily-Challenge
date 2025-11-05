@@ -17,11 +17,12 @@ class Solution {
             }
 
             // Convert both characters to lowercase and compare
-            char startChar = Character.toLowerCase(s.charAt(start));
-            char endChar = Character.toLowerCase(s.charAt(end));
+            
+            char startchar = Character.toLowerCase(s.charAt(start));
+            char endchar = Character.toLowerCase(s.charAt(end));
 
             // If characters don't match, it's not a palindrome
-            if (startChar != endChar) {
+            if (startchar != endchar) {
                 return false;
             }
 
