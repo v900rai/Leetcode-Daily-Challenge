@@ -21,7 +21,8 @@ class Solution {
         int[] result = new int[resultSet.size()];
         int index = 0;
         for (int num : resultSet) {
-            result[index++] = num;
+            result[index] = num;
+            index++;
         }
         
         return result;
