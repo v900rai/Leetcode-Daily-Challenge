@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-new-21-game) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
+| [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0657-robot-return-to-origin) |
