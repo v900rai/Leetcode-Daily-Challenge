@@ -8,7 +8,8 @@ class Solution {
         // Perform binary search to find the minimum element
         while (left < right) {
             // Find the middle index
-            int mid = left + (right - left) / 2;
+            //int mid = left + (right - left) / 2;
+            int mid = left+(right-left)/2;
 
             // If the middle element is less than or equal to the rightmost element,
             // it means the minimum element lies in the left half (including mid)
