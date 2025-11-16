@@ -9,8 +9,6 @@ class Solution {
         if (nums.length == 0)
             return new ArrayList<>();
         // Step 1: Sort the array to use two-pointer technique
-
-
         Arrays.sort(nums);
         
         // Step 2: Traverse each element, treating it as the first element of triplet
