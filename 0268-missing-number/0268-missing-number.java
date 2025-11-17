@@ -1,14 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
 
-      int ans =0;
-      for(int i=0; i<=nums.length; i++){
-        ans =ans^i; // both are same then zero 
+      int ans = 0;
+      for(int i=0; i<= nums.length; i++){
+        ans = ans^i;
       }
-
       for(int i=0; i< nums.length; i++){
-        ans = ans^nums[i];
+        ans = ans ^ nums[i];
       }
-        return ans;
+      return ans;
+
+        
     }
 }
