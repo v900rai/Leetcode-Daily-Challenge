@@ -30,7 +30,7 @@ class Solution {
         return diameter; // फाइनल डायमीटर रिटर्न करें
     }
 
-    private int depth(TreeNode node) {
+    private int depth(TreeNod node) {
         if (node == null) {
             return 0; // यदि नोड null है, तो उसकी गहराई 0 होगी
         }
