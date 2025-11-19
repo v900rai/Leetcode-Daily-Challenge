@@ -1,23 +1,16 @@
-
-
-import java.util.HashSet;
-
-public class Solution {
+class Solution {
     public int findFinalValue(int[] nums, int original) {
-        // Step 1: Store all numbers in a HashSet for fast lookup
-        HashSet<Integer> set = new HashSet<>();
-        for (int num : nums) {
-            set.add(num);
-        }
 
-        // Step 2: Keep multiplying by 2 while the value is found
-        while (set.contains(original)) {
-            original *= 2;
-        }
+      Set<Integer> set = new HashSet<>();
+      for(int n : nums){
+        set.add(n);
+      }
 
-        // Step 3: Return final value
-        return original;
+      while(set.contains(original)){
+        original = original * 2;
+
+      }
+      return original;
+        
     }
-
-    
 }
