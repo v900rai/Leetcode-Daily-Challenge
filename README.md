@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1929-concatenation-of-array) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2058-concatenation-of-array) |
