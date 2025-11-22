@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
