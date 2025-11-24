@@ -1,8 +1,9 @@
 class Solution {
     public int maxSumDivThree(int[] nums) {
-        int sum=0;
+        
         List<Integer>list1=new ArrayList<>();
         List<Integer>list2=new ArrayList<>();
+        int sum = 0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]%3==1){
                 list1.add(nums[i]);
@@ -12,7 +13,8 @@ class Solution {
             }
             sum+=nums[i];
         }
-        if(sum%3==0)return sum;
+        if(sum%3==0)
+        return sum;
         Collections.sort(list1);
         Collections.sort(list2);
         if(sum%3==1){
