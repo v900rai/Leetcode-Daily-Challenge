@@ -14,10 +14,9 @@
  * }
  */
 class Solution {
- // List<Integer> list=new ArrayList<Integer>();
-  List<Integer> list = new ArrayList<Integer>();
+     ArrayList<Integer> list = new ArrayList<Integer>();
     public List<Integer> preorderTraversal(TreeNode root) {
-      if(root==null){
+      if(root == null){
         return list;
       }
       list.add(root.val);
