@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         // एक HashMap जिसका key होगा sorted string और value होगी words की list जो anagram हैं
-       // Map<String, List<String>> map = new HashMap<>();
+       
         Map<String, List<String>> map = new HashMap<>();
         // सभी शब्दों पर iterate करें
         for (String word : strs) {
