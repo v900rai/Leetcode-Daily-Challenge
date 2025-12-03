@@ -13,28 +13,17 @@
  *     }
  * }
  */
-// Definition for a binary tree node.
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
-
 class Solution {
     public int maxDepth(TreeNode root) {
-        // यदि root null है, तो गहराई (depth) 0 होगी
-        if (root == null) {
-            return 0;
-        }
 
-        // बाएं सबट्री (left subtree) की अधिकतम गहराई निकालें
-        int leftMax = maxDepth(root.left);
+      if(root == null){
+        return 0;
 
-        // दाएं सबट्री (right subtree) की अधिकतम गहराई निकालें
-        int rightMax = maxDepth(root.right);
+      }
 
-        // दोनों में से अधिकतम चुनकर 1 जोड़ें (क्योंकि करंट नोड भी शामिल है)
-        return Math.max(leftMax, rightMax) + 1;
+      int  leftmax = maxDepth(root.left);
+      int rightmax = maxDepth(root.right);
+      return  Math.max(leftmax, rightmax)+1;
+        
     }
 }
