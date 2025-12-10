@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -1760,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -1841,6 +1844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
