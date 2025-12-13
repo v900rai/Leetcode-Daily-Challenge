@@ -2,14 +2,19 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> res= new HashSet<>();
-
-
-        // Edge case: if array is empty, return empty list
-        if (nums.length == 0)
-            return new ArrayList<>();
-        // Step 1: Sort the array to use two-pointer technique
+       
+        Set<List<Integer>> res = new HashSet<>();
+        if(nums.length== 0){
+          return new ArrayList<>();
+        }
         Arrays.sort(nums);
+
+
+        // // Edge case: if array is empty, return empty list
+        // if (nums.length == 0)
+        //     return new ArrayList<>();
+        // // Step 1: Sort the array to use two-pointer technique
+        // Arrays.sort(nums);
         
         // Step 2: Traverse each element, treating it as the first element of triplet
         for (int i = 0; i < nums.length - 2; i++) {
