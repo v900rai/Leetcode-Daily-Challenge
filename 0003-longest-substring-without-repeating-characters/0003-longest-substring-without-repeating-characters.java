@@ -1,30 +1,27 @@
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+        
+//     }
+// }
+
+import java.util.*;
+
 class Solution {
-  public int lengthOfLongestSubstring(String s) {
-    int n = s.length(); // Get the length of the input string
+    public int lengthOfLongestSubstring(String s) {
 
-    int maxLength = 0; // To store the length of the longest substring without repeating characters
+        Set<Character> set = new HashSet<>();
+        int left = 0, maxLen = 0;
 
-    int left = 0; // Left pointer of the sliding window
-    Set<Character> charSet = new HashSet<>(); // HashSet to store characters in the current window (no duplicates allowed)
+        for (int right = 0; right < s.length(); right++) {
 
-    // Iterate over the string using right pointer
-    for (int right = 0; right < n; right++) {
-      // If the character at 'right' is not already in the set, it's safe to add
-      if (!charSet.contains(s.charAt(right))) {
-        charSet.add(s.charAt(right)); // Add character to the set
-        // Update the maximum length of substring found so far
-        maxLength = Math.max(maxLength, right - left + 1);
-      } else {
-        // If character is already in the set (duplicate found), we need to move the left pointer
-        while (charSet.contains(s.charAt(right))) {
-          charSet.remove(s.charAt(left)); // Remove characters from the left until duplicate is removed
-          left++; // Move left pointer forward
+            while (set.contains(s.charAt(right))) {
+                set.remove(s.charAt(left));
+                left++;
+            }
+
+            set.add(s.charAt(right));
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        // After removing the duplicate, add the current character
-        charSet.add(s.charAt(right));
-      }
+        return maxLen;
     }
-
-    return maxLength; // Return the length of the longest substring without repeating characters
-  }
 }
