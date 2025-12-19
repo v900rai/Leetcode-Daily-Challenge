@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0952-word-subsets) |
+| [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
