@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1612-avoid-flood-in-the-city) |
