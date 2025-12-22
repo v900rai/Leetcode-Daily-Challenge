@@ -17,8 +17,11 @@ class MinStack {
         // Agar minStack empty hai
         // ya current element chhota ya equal hai current min se
         // to minStack me bhi push karo
-        if (minStack.isEmpty() || x <= minStack.peek()) {
-            minStack.push(x);
+        // if (minStack.isEmpty() || x <= minStack.peek()) {
+        //     minStack.push(x);
+        // }
+        if(minStack.isEmpty()|| x<=minStack.peek()){
+          minStack.push(x);
         }
     }
 
