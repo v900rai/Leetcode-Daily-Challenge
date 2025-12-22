@@ -1,16 +1,36 @@
+import java.util.Stack;
+
 class Solution {
-  public boolean isValid(String s) {
-    Stack<Character> stack = new Stack<>();
-    for (char c : s.toCharArray()) {
-      if (c == '(')
-        stack.push(')');
-      else if (c == '{')
-        stack.push('}');
-      else if (c == '[')
-        stack.push(']');
-      else if (stack.isEmpty() || stack.pop() != c)
-        return false;
+    public boolean isValid(String s) {
+
+        Stack<Character> st = new Stack<>();
+
+        // har character par loop
+        for (char ch : s.toCharArray()) {
+
+            // 1️⃣ opening bracket → push
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);
+            }
+            // 2️⃣ closing bracket
+            else {
+
+                // stack empty hai to invalid
+                if (st.isEmpty())
+                    return false;
+
+                char top = st.pop();
+
+                // matching check
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
+                    return false;
+                }
+            }
+        }
+
+        // agar stack empty → valid
+        return st.isEmpty();
     }
-    return stack.isEmpty();
-  }
 }
