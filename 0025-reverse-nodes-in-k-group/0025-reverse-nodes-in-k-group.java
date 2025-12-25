@@ -31,6 +31,7 @@ class Solution {
         }
 
         // recursion for remaining list
+        // recursion  for remaining  list
         head.next = reverseKGroup(curr, k);
         return prev;
     }
