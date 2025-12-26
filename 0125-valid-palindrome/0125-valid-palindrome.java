@@ -21,6 +21,7 @@ class Solution {
       // Convert both characters to lowercase and compare
 
       char startchar = Character.toLowerCase(s.charAt(start));
+      
       char endchar = Character.toLowerCase(s.charAt(end));
 
       // If characters don't match, it's not a palindrome
