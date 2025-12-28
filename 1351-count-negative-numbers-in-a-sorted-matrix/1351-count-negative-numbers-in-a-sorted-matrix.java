@@ -1,12 +1,14 @@
 class Solution {
     public int countNegatives(int[][] grid) {
         int res = 0;
+
         for(int i = 0; i < grid.length; ++i) {
-            
-            res =res +  negativeEachRow(grid[i]);
+            res = res +  negativeEachRow(grid[i]);
         }
         return res;
     }
+
+
     
     private int negativeEachRow(int[] row) {
         int res = 0;
