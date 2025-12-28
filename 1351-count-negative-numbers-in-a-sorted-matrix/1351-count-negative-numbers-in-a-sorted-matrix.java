@@ -2,8 +2,8 @@ class Solution {
     public int countNegatives(int[][] grid) {
         int res = 0;
         for(int i = 0; i < grid.length; ++i) {
-            // add up negative numbers of each row
-            res += negativeEachRow(grid[i]);
+            
+            res =res +  negativeEachRow(grid[i]);
         }
         return res;
     }
@@ -14,8 +14,6 @@ class Solution {
         int right = row.length - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            // if midPoint is positive, go to the right side
-            // if midPoint is negative, count the right side(because they are all negative) and go to left side.
             if (row[mid] >= 0) {
                 left = mid + 1;
             } else if (row[mid] < 0) {
