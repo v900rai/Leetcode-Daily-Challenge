@@ -1,7 +1,7 @@
 class Solution {
     public int countNegatives(int[][] grid) {
+       
         int res = 0;
-
         for(int i = 0; i < grid.length; ++i) {
             res = res +  negativeEachRow(grid[i]);
         }
@@ -18,7 +18,9 @@ class Solution {
             int mid = left + (right - left) / 2;
             if (row[mid] >= 0) {
                 left = mid + 1;
+
             } else if (row[mid] < 0) {
+              
                 res += right - mid + 1;
                 right = mid - 1;
             }
