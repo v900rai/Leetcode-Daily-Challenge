@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0875-koko-eating-bananas) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0566-reshape-the-matrix) |
 | [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1013-fibonacci-number) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0817-design-hashmap) |
+| [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
