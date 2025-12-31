@@ -13,7 +13,7 @@ class Solution {
         for (int i = k; i < nums.length; i++) {
 
             sum += nums[i];      // right se add
-            sum -= nums[i - k];  // left se remove
+            sum =sum- nums[i - k];  // left se remove
 
             maxSum = Math.max(maxSum, sum);
         }
