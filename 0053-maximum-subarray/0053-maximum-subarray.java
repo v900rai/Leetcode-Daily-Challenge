@@ -6,7 +6,7 @@ class Solution {
         sum =sum+nums[i];
         maxSum = Math.max(maxSum ,sum);
         if(sum<0){
-          sum = nums[i];
+          sum = 0;
         }
       }
       return maxSum;
