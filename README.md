@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0817-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0876-middle-of-the-linked-list) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0705-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0705-design-hashset) |
 | [0756-pyramid-transition-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
@@ -1478,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
@@ -1866,6 +1870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0705-design-hashset) |
 | [0816-design-hashset](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0817-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2079-delete-duplicate-folders-in-system) |
