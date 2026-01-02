@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2048-build-array-from-permutation) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2058-concatenation-of-array) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2023-design-movie-rental-system) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2032-largest-odd-number-in-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
