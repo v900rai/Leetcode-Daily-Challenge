@@ -1,23 +1,22 @@
 class Solution {
-  public boolean canPlaceFlowers(int[] flowerbed, int n) {
-    if (flowerbed.length == 1) {
-      return (n == 1 && flowerbed[0] == 0) || (n == 0);
-    }
-    int appropriatePlace = 0;
-    int previousPlace = 0;
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+        int count = 0;
+        int len = flowerbed.length;
 
-    for (int i = 0; i < flowerbed.length - 1; i++) {
-      if (flowerbed[i] == 0 && previousPlace == 0 && flowerbed[i + 1] == 0) {
-        appropriatePlace++;
-        flowerbed[i] = 1;
-      }
-      previousPlace = flowerbed[i];
-    }
+        for (int i = 0; i < len; i++) {
+            if (flowerbed[i] == 0) {
+                // Check left and right neighbors
+                boolean emptyLeft = (i == 0) || (flowerbed[i - 1] == 0);
+                boolean emptyRight = (i == len - 1) || (flowerbed[i + 1] == 0);
 
-    if (flowerbed.length > 1 && flowerbed[flowerbed.length - 1] == 0 && flowerbed[flowerbed.length - 2] == 0) {
-      appropriatePlace++;
-    }
+                if (emptyLeft && emptyRight) {
+                    flowerbed[i] = 1; // plant a flower here
+                    count++;
+                    if (count >= n) return true;
+                }
+            }
+        }
 
-    return appropriatePlace >= n;
-  }
+        return count >= n;
+    }
 }
