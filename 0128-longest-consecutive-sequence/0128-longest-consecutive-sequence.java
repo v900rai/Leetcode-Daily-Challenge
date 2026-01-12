@@ -2,14 +2,15 @@ class Solution {
     public int longestConsecutive(int[] nums) {
 
         // Step 1: Sabhi elements ko HashSet me daal do
-        // Taaki O(1) time me search ho sake
+        // Taaki O(1) time me search ho sake 
+        
         HashSet<Integer> set = new HashSet<>();
         for(int val : nums){
             set.add(val);
         }
 
         int max = 0; // Longest sequence ka answer
-
+        
         // Step 2: Har number ke liye check karo
         for(int num : set){
 
