@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-minimize-xor](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2429-minimize-xor) |
 | [2478-longest-nice-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1469,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-minimize-xor](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2429-minimize-xor) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
