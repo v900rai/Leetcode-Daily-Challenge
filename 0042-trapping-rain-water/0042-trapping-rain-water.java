@@ -10,10 +10,11 @@ class Solution {
                 left++;
                 leftMax = Math.max(leftMax, height[left]);
                 water =water+leftMax - height[left];
-            } else {
-                right--;
-                rightMax = Math.max(rightMax, height[right]);
-                water = water+rightMax - height[right];
+            } 
+            else{
+              right--;
+              rightMax= Math.max(rightMax, height[right]);
+              water = water+rightMax - height[right];
             }
         }
 
