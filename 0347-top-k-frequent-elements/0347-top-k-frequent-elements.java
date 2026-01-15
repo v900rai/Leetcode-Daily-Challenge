@@ -1,17 +1,34 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // build map<num, frequence>
-        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
-        for (int num: nums) map.put(num, map.getOrDefault(num, 0) + 1);
-        
-        // sort list from map.keyset() by map.get(num),
-        List<Integer> list = new ArrayList<>(map.keySet());
-        Collections.sort(list, (a, b) -> map.get(b) - map.get(a));
-        
-        // transfer results from list to int[];
-        int[] res = new int[k];
-        for (int i = 0; i < k; i++) res[i] = list.get(i);
-        
-        return res;
+
+        //  Count frequency
+        HashMap<Integer, Integer> freq = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int n = nums[i];
+            freq.put(n, freq.getOrDefault(n, 0) + 1);
+        }
+
+        //  Min heap based on frequency
+        PriorityQueue<Integer> heap =
+            new PriorityQueue<>((a, b) -> freq.get(a) - freq.get(b));
+
+        // Keep only k most frequent elements
+        Object[] keys = freq.keySet().toArray();
+        for (int i = 0; i < keys.length; i++) {
+            int num = (int) keys[i];
+            heap.add(num);
+
+            if (heap.size() > k) {
+                heap.poll();   // remove least frequent
+            }
+        }
+
+        // Prepare result
+        int[] result = new int[k];
+        for (int i = k - 1; i >= 0; i--) {
+            result[i] = heap.poll();
+        }
+
+        return result;
     }
 }
