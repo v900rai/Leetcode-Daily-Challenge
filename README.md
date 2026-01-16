@@ -2128,4 +2128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
