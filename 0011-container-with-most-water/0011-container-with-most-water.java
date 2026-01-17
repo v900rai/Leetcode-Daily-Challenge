@@ -20,7 +20,7 @@ class Solution {
             int w = right - left;
 
             // Height is the minimum of two lines
-            //int h = Math.min(height[left], height[right]);
+            
             int h = Math.min(height[left], height[right]);
 
             // Calculate current area
