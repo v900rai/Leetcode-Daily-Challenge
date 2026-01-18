@@ -7,9 +7,8 @@ class Solution {
         }
         return res;
     }
-
-
     
+
     private int negativeEachRow(int[] row) {
         int res = 0;
         int left = 0;
@@ -20,7 +19,7 @@ class Solution {
                 left = mid + 1;
 
             } else if (row[mid] < 0) {
-              
+
                 res += right - mid + 1;
                 right = mid - 1;
             }
