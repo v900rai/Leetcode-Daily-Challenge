@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1975-maximum-matrix-sum) |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
