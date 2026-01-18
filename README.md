@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-string-matching-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1408-string-matching-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1325,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1537-maximum-score-after-splitting-a-string) |
