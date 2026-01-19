@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2032-largest-odd-number-in-string) |
@@ -1249,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
@@ -1486,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1988-minimize-maximum-pair-sum-in-array) |
