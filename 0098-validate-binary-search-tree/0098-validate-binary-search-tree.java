@@ -28,6 +28,10 @@ class Solution {
         if (root == null)
             return true;
 
+        if(root.val<=min && root.val>=max){
+          return true;
+        }    
+
         // If node's value violates the min/max constraint, it's not a BST
         if (root.val <= min || root.val >= max)
             return false;
