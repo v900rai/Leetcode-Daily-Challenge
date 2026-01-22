@@ -22,10 +22,10 @@ class Solution {
                     res.add(Arrays.asList(nums[i], nums[j], nums[k]));
                     j++; // Move both pointers to check for more possibilities
                     k--;
-                } else if (sum > 0) {
-                    k--; // Sum is too big, move right pointer left to reduce it
+                } else if (sum < 0) {
+                    j++; // Sum is too big, move right pointer left to reduce it
                 } else {
-                    j++; // Sum is too small, move left pointer right to increase it
+                    k--; // Sum is too small, move left pointer right to increase it
                 }
             }
         }
