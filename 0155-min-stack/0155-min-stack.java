@@ -11,6 +11,7 @@ class MinStack {
     // 🔹 Push element into stack
     public void push(int x) {
 
+
         // Element ko main stack me push karo
         stack.push(x);
 
