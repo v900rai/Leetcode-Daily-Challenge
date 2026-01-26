@@ -1,24 +1,29 @@
+//Approach (Sort and find and collect)
+//T.C : O(nlogn) 
+//S.C : O(1)
 class Solution {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         Arrays.sort(arr);
-        int small=Integer.MAX_VALUE;
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        for(int i=1;i<arr.length;i++){
-            int diff=arr[i]-arr[i-1];
-            if(diff<small){
-                small=diff;
+
+        List<List<Integer>> result = new ArrayList<>();
+        int n = arr.length;
+
+        int minDiff = Integer.MAX_VALUE;
+
+        // First pass: find minimum difference
+        for (int i = 1; i < n; i++) {
+            int diff = arr[i] - arr[i - 1];
+            minDiff = Math.min(minDiff, diff);
+        }
+
+        // Second pass: collect pairs with min difference
+        for (int i = 1; i < n; i++) {
+            int diff = arr[i] - arr[i - 1];
+            if (diff == minDiff) {
+                result.add(Arrays.asList(arr[i - 1], arr[i]));
             }
         }
-        List<List<Integer>> lst=new ArrayList<>();
-        for(int i=1;i<arr.length;i++){
-            int diff=arr[i]-arr[i-1];
-            if(diff==small){
-                List<Integer> ls=new ArrayList<>();
-                ls.add(arr[i-1]);
-                ls.add(arr[i]);
-                lst.add(new ArrayList<>(ls));
-            }
-        }
-        return lst;
+
+        return result;
     }
 }
