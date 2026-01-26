@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1168-duplicate-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1353-find-resultant-array-after-removing-anagrams) |
