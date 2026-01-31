@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
