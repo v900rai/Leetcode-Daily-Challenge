@@ -3,7 +3,7 @@ class Solution {
     int maxCharacter = 1;
     int len = 1;
     for (int i = 1; i < s.length(); i++) {
-      if (s.charAt(i - 1) == s.charAt(i)) {
+      if (s.charAt(i) == s.charAt(i-1)) {
         len++;
       } else {
         if (maxCharacter < len) {
