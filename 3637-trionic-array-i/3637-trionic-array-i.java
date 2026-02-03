@@ -1,28 +1,29 @@
 class Solution {
     public boolean isTrionic(int[] nums) {
-      int len=nums.length;
-      int p=0;
-      for(int i=0;i<len-1;i++){
-        if(nums[i]<nums[i+1])p++;
-        else{
-            break;
-        }
-      }
-            int q=p;
+        int n = nums.length;
+        int i = 0;
 
-         for(int i=p;i<len-1;i++){
-        if(nums[i]>nums[i+1])q++;
-        else{
-            break;
+        // Increasing
+        while (i + 1 < n && nums[i] < nums[i + 1]) {
+            i++;
         }
-      } 
-      boolean trionic=true;
-      for(int i=q;i<len-1;i++) {
-        if(nums[i]>=nums[i+1]){
-            return false;
+
+        // Must have at least one increasing step and not reach end
+        if (i == 0 || i == n - 1) return false;
+
+        // Decreasing
+        while (i + 1 < n && nums[i] > nums[i + 1]) {
+            i++;
         }
-      }
-      if(p==0 || p== q || q==len-1)return false;
-      return trionic;
+
+        // Must have at least one decreasing step and not reach end
+        if (i == n - 1) return false;
+
+        // Increasing again
+        while (i + 1 < n && nums[i] < nums[i + 1]) {
+            i++;
+        }
+
+        return i == n - 1;
     }
 }
