@@ -1,8 +1,5 @@
 class Solution {
   public int reverse(int nums) {
-  
-
-
     long revers = 0;
     while(nums!= 0){
       int digit  = nums % 10;
