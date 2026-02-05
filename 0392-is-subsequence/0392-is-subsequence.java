@@ -1,16 +1,22 @@
 class Solution {
+
     public boolean isSubsequence(String s, String t) {
-       int n1=s.length();
-       int n2=t.length();
-       int p1=0;
-       int p2=0;
-       while(p1<n1 && p2<n2){
-        if(s.charAt(p1)==t.charAt(p2)){
-            p1++;
-            p2++;
-        }else
-        p2++;
-       }
-       return p1==n1;
+
+        int i = 0; // pointer for s
+        int j = 0; // pointer for t
+
+        while (i < s.length() && j < t.length()) {
+
+            // If characters match
+            if (s.charAt(i) == t.charAt(j)) {
+                i++; // move s pointer
+            }
+
+            // Always move t pointer
+            j++;
+        }
+
+        // If i reached end -> subsequence found
+        return i == s.length();
     }
 }
