@@ -6,7 +6,8 @@ class Solution {
         for(String i : details){
             String s=i.substring(11,13);
             int age=Integer.parseInt(i.substring(11,13));
-            if(age>60) count++;
+            if(age>60) 
+            count++;
         }
         return count;
     }
