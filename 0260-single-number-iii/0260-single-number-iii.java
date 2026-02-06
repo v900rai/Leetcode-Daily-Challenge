@@ -7,7 +7,7 @@ class Solution {
         
         // Index to keep track of how many unique numbers we have stored
         int index = 0;
-
+       
         // Outer loop -> pick each element one by one
         for (int i = 0; i < n; i++) {
             boolean found = false; // Flag to check if current element is duplicate
@@ -23,7 +23,8 @@ class Solution {
 
             // If element was never found duplicate -> it's a unique number
             if (!found) {
-                result[index++] = nums[i]; // Store the unique number
+                result[index] = nums[i];
+                index++; // Store the unique number
 
                 // If we already found both unique numbers, stop searching
                 if (index == 2) {
