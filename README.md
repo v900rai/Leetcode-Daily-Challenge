@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1598-crawler-log-folder](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1768-merge-strings-alternately](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1768-merge-strings-alternately) |
@@ -1682,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1598-crawler-log-folder) |
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
