@@ -15,6 +15,8 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         dummy.next = head;
 
+
+       
         ListNode fast = dummy;
         ListNode slow = dummy;
 
@@ -24,9 +26,9 @@ class Solution {
         }
 
         // move both until fast reaches end
-        while (fast.next != null) {
-            fast = fast.next;
-            slow = slow.next;
+        while(fast.next != null){
+          fast = fast.next;
+          slow = slow.next;
         }
 
         slow.next = slow.next.next;
