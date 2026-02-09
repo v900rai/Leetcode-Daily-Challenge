@@ -7,7 +7,8 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         
         // Agar tree empty hai
-        if(root == null) return result;
+        if(root == null) 
+        return result;
         
         // Queue for BFS
         Queue<TreeNode> queue = new LinkedList<>();
