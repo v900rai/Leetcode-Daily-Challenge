@@ -1,8 +1,7 @@
 class Solution {
     public int longestBalanced(int[] nums) {
-       int  n = nums.length;
+        int  n = nums.length;
         int result = 0;
-
         for(int i = 0;i<n;i++){
             Set<Integer> e = new HashSet<>();
             Set<Integer> o = new HashSet<>();
