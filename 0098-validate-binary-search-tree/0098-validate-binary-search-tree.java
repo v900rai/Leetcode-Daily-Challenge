@@ -37,6 +37,7 @@ class Solution {
         if (root.val <= min || root.val >= max)
             return false;
 
+
         // Recursively validate left and right subtrees with updated ranges
         return isValidBSTHelper(root.left, min, root.val) &&
                isValidBSTHelper(root.right, root.val, max);
