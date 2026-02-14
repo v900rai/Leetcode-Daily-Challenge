@@ -23,7 +23,8 @@ class Solution {
     }
 
     // Helper method that checks the BST validity recursively
-    public boolean isValidBSTHelper(TreeNode root, long min, long max) {
+    public boolean isValidBSTHelper(TreeNode root, long min, long max)
+     {
         // Base case: null node is always valid
         if (root == null)
             return true;
