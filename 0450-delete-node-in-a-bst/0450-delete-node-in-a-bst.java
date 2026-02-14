@@ -18,7 +18,8 @@
 class Solution {
 
     public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null) return null;
+        if (root == null)
+         return null;
 
         if (key < root.val) {
             root.left = deleteNode(root.left, key);
@@ -28,8 +29,10 @@ class Solution {
         } 
         else {
             // Case 1 & 2
-            if (root.left == null) return root.right;
-            if (root.right == null) return root.left;
+            if (root.left == null) 
+            return root.right;
+            if (root.right == null) 
+            return root.left;
 
             // Case 3: inorder successor
             TreeNode minNode = findMin(root.right);
