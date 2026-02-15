@@ -1,28 +1,37 @@
+//Approach (Simple binary addition)
+//T.C : O(m+n)
+//S.C : O(1)
 class Solution {
     public String addBinary(String a, String b) {
-
-        StringBuilder res = new StringBuilder();
-
-        int i = a.length() - 1; // last index of a
-        int j = b.length() - 1; // last index of b
+        int m = a.length() - 1;
+        int n = b.length() - 1;
         int carry = 0;
+        int sum = 0;
 
-        while(i >= 0 || j >= 0){  // jab tak dono complete na ho jaye
-            int sum = carry;     // start sum with carry
+        StringBuilder result = new StringBuilder();
 
-            if(i >= 0)
-                sum += a.charAt(i--) - '0'; // char ko number me convert
-            if(j >= 0)
-                sum += b.charAt(j--) - '0';
+        while (m >= 0 || n >= 0) {
+            sum = carry;
 
-            carry = sum > 1 ? 1 : 0; // agar sum 2 or 3 ho → carry = 1
+            if (m >= 0) {
+                sum += a.charAt(m) - '0';
+                m--;
+            }
 
-            res.append(sum % 2); // 0 ya 1 add hoga
+            if (n >= 0) {
+                sum += b.charAt(n) - '0';
+                n--;
+            }
+
+            result.append((sum % 2 == 0) ? '0' : '1');
+
+            carry = sum / 2;
         }
 
-        if(carry != 0)
-            res.append(carry); // last me carry bach jaye to add
+        if (carry == 1) {
+            result.append('1');
+        }
 
-        return res.reverse().toString(); // because LSB se add kiya
+        return result.reverse().toString();
     }
 }
