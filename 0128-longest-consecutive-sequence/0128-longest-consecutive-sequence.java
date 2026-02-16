@@ -6,7 +6,7 @@ class Solution {
         
         HashSet<Integer> set = new HashSet<>();
         for(int val : nums){
-            set.add(val); 
+            set.add(val);
         }
 
         int max = 0; // Longest sequence ka answer
