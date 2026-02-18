@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3429-special-array-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3432-count-partitions-with-even-sum-difference) |
