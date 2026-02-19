@@ -941,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0868-push-dominoes) |
@@ -1260,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0742-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0756-pyramid-transition-matrix) |
