@@ -994,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0912-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-sort-array-by-parity) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0742-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0844-backspace-string-compare) |
