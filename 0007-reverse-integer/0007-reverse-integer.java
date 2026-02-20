@@ -11,6 +11,7 @@ class Solution {
     if (revers > Integer.MAX_VALUE || revers < Integer.MIN_VALUE) {
       return 0;
     }
+    
     return (int) revers;
 
   }
