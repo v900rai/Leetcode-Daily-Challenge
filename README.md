@@ -1371,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3340-check-balanced-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3340-check-balanced-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3408-count-the-number-of-special-characters-i) |
