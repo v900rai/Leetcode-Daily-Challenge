@@ -9,7 +9,7 @@ class Solution {
         while (j < nums.length) {
             // Adjust the window if nums[j] is already in the set
             while (set.contains(nums[j])) {
-                currWindowSum -= nums[i];
+                currWindowSum =currWindowSum - nums[i];
                 set.remove(nums[i]);
                 i++;
             }
