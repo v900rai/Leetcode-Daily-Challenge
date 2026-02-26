@@ -9,7 +9,8 @@ class Solution {
         }
 
         // Must have at least one increasing step and not reach end
-        if (i == 0 || i == n - 1) return false;
+        if (i == 0 || i == n - 1)
+         return false;
 
         // Decreasing
         while (i + 1 < n && nums[i] > nums[i + 1]) {
