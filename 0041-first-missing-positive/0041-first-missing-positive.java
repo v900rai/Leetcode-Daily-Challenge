@@ -1,39 +1,36 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
+        int n = nums.length;
+        boolean contains1 = false;
 
-        int max = 0;          // array ka maximum value store karega
-        int min = 2;          // minimum positive number (initial 2 rakha)
-        
-        HashSet<Integer> set = new HashSet<>();
-
-        // Step 1: max, min aur set fill karna
-        for (int i = 0; i < nums.length; i++) {
-
-            // max value update
-            max = Math.max(max, nums[i]);
-
-            // sirf positive numbers ke liye min update
-            if (nums[i] > 0) {
-                min = Math.min(min, nums[i]);
+        for (int i = 0; i < n; i++) {
+            // Check whether 1 is in the original array
+            if (nums[i] == 1) {
+                contains1 = true;
             }
-
-            // har element set me add
-            set.add(nums[i]);
-        }
-
-        // Step 2: agar 1 hi missing hai
-        if (min != 1) {
-            return 1;
-        }
-
-        // Step 3: min se max tak missing number dhoondo
-        for (int i = min; i <= max; i++) {
-            if (!set.contains(i)) {
-                return i;   // pehla missing positive
+            if (nums[i] <= 0 || nums[i] > n) {
+                nums[i] = 1;
             }
         }
 
-        // Step 4: agar kuch bhi missing nahi mila
-        return max + 1;
+        if (!contains1) return 1;
+
+        // Mark whether integers 1 to n are in nums
+        // Use index as a hash key and negative sign as a presence detector.
+        for (int i = 0; i < n; i++) {
+            int val = Math.abs(nums[i]);
+            int idx = val - 1;
+
+            if (nums[idx] < 0) continue;
+            nums[idx] *= -1;
+        }
+
+        // First positive in nums is smallest missing positive integer
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > 0)
+                return i + 1;
+        }
+
+        return n + 1;
     }
 }
