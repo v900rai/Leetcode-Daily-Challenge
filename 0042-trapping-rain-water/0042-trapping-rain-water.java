@@ -6,11 +6,12 @@ class Solution {
         int rightMax  = height[right];
         int water     = 0;
         while (left < right) {
-           
+          
+
             if(leftMax < rightMax){
               left++;
               leftMax = Math.max(leftMax, height[left]);
-              water =water+leftMax - height[left];
+              water = water+ leftMax-height[left];
             }
             else{
               right--;
