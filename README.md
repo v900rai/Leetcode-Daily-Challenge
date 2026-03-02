@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0045-jump-game-ii) |
@@ -2048,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
