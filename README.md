@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -2002,6 +2003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0794-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1612-avoid-flood-in-the-city) |
