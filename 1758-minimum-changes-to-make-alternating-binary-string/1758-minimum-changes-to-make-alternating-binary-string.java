@@ -1,6 +1,7 @@
 class Solution {
     public int minOperations(String s) {
-        int zerostart = 0, onestart = 0;
+        int zerostart = 0;
+        int  onestart = 0;
 
         for(int i=0; i<s.length(); i++) {
             // O(n)
