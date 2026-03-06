@@ -1335,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1796-second-largest-digit-in-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1813-sentence-similarity-iii) |
