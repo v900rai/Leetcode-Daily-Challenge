@@ -8,6 +8,7 @@ class Solution {
                nums[left]=temp;
                left++;
            }
-        }   
+        }
+           
     }
 }
