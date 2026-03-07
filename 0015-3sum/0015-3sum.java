@@ -7,8 +7,6 @@ class Solution {
           return new ArrayList<>();
         }
         Arrays.sort(nums);
-
-
         // Step 2: Traverse each element, treating it as the first element of triplet
         for (int i = 0; i < nums.length - 2; i++) {
             int j = i + 1; // Left pointer
