@@ -11,7 +11,7 @@ class Solution {
             
             if(nums[i] > 0){
                 result[pos] = nums[i];
-                pos += 2;
+                pos = pos + 2;
             }
             else{
                 result[neg] = nums[i];
