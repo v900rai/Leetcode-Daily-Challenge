@@ -1556,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1653,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -2322,15 +2324,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1791-find-center-of-star-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
