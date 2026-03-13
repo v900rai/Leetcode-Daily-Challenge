@@ -22,7 +22,7 @@ class StockSpanner {
         while (!stack.isEmpty() && stack.peek()[0] <= price) {
 
             // पिछले span को add कर दो
-            span += stack.peek()[1];
+            span = span +  stack.peek()[1];
 
             // उस element को remove कर दो
             stack.pop();
