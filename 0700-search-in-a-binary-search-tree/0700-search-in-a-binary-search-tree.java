@@ -15,21 +15,18 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        // base case bhaut important hota i recursions m yrr
-      if(root==null){
-        return root;
-
-      }
-      if(root.val==val){
+      if(root == null){
         return root;
       }
-      if(root.val>val){
-       return searchBST(root.left, val);
+      if(root.val == val){
+        return root;
       }
-      else{
-       return  searchBST(root.right, val);
-      }
-      
-
+        
+        if(root.val>val){
+          return searchBST(root.left,val);
+        }
+        else{
+          return searchBST(root.right,val);
+        }
     }
 }
