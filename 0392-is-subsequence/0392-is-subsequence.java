@@ -1,15 +1,17 @@
 class Solution {
-  public boolean isSubsequence(String s, String t) {
+    public boolean isSubsequence(String s, String t) {
+        int i = 0; // s ke liye pointer
+        int j = 0; // t ke liye pointer
 
-      int i = 0;
-      int j = 0;
-      while(i< s.length() && j<t.length()){
-        if(s.charAt(i) ==t. charAt(j)){
-          i++;
+        while (i < s.length() && j < t.length()) {
+            // agar dono characters same hain
+            if (s.charAt(i) == t.charAt(j)) {
+                i++;
+            }
+            j++;
         }
-        j++;
-      }
-      return i == s.length();
-        
+
+        // agar s ke saare characters match ho gaye
+        return i == s.length();
     }
 }
