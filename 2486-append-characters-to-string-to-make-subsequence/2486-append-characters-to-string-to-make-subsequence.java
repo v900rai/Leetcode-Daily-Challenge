@@ -1,19 +1,16 @@
 class Solution {
-  public int appendCharacters(String s, String t) {
-    int m = s.length();
-    int n = t.length();
+    public int appendCharacters(String s, String t) {
+        int i = 0; // pointer for s
+        int j = 0; // pointer for t
 
-    int i = 0; // for s
-    int j = 0; // for t
+        while (i < s.length() && j < t.length()) {
+            if (s.charAt(i) == t.charAt(j)) {
+                j++;
+            }
+            i++;
+        }
 
-    while (i < m && j < n) {
-      if (s.charAt(i) == t.charAt(j)) {
-        j++;
-      }
-      i++;
+        // t ke jo characters abhi tak match nahi hue
+        return t.length() - j;
     }
-
-    return n - j;
-
-  }
 }
