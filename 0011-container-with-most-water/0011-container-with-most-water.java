@@ -1,5 +1,4 @@
 class Solution {
-
     // This method finds the maximum water that can be contained
     // using the two-pointer approach
     public int maxArea(int[] height) {
@@ -36,7 +35,6 @@ class Solution {
                 right--;
             }
         }
-
         // Return the maximum water area
         return ans;
     }
