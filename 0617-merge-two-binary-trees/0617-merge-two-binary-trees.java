@@ -28,11 +28,13 @@ class Solution {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
         
         // Base case
-        if (root1 == null) return root2;
-        if (root2 == null) return root1;
+        if (root1 == null)
+         return root2;
+        if (root2 == null)
+         return root1;
         
         // Merge values
-        root1.val += root2.val;
+        root1.val =root1.val +  root2.val;
         
         // Recursively merge left and right
         root1.left = mergeTrees(root1.left, root2.left);
