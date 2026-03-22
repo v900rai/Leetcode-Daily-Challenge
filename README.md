@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2665-minimum-time-to-repair-cars) |
 | [2678-number-of-senior-citizens](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2678-number-of-senior-citizens) |
+| [2679-sum-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2689-rearranging-fruits) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2625-increment-submatrices-by-one) |
+| [2679-sum-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2679-sum-in-a-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2551-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2679-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3336-water-bottles-ii) |
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2679-sum-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -2099,6 +2103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2679-sum-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2679-sum-in-a-matrix) |
 | [2681-put-marbles-in-bags](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2681-put-marbles-in-bags) |
 | [2868-continuous-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2868-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
