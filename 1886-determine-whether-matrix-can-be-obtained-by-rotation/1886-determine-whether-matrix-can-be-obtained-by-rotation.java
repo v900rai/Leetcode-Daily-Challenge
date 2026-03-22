@@ -1,7 +1,4 @@
 class Solution {
-  
-
-
 public boolean findRotation(int[][] mat, int[][] target) {
 		//90 degree * 4 = 360degree, we can rotate 90 degree & check whether it matches the target 
         for(int i=0; i<4; i++){
