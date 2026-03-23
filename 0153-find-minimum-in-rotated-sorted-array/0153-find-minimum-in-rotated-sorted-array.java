@@ -1,11 +1,8 @@
 class Solution {
     public int findMin(int[] nums) {
         // Initialize the left and right pointers
-        
         int left =0;
         int right = nums.length-1;
-        
-
         // Perform binary search to find the minimum element
         while (left < right) {
             // Find the middle index
