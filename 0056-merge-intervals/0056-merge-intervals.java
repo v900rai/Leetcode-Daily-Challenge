@@ -1,8 +1,6 @@
 import java.util.*;
-
 class Solution {
     public int[][] merge(int[][] intervals) {
-
         // Step 1: sort intervals
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
