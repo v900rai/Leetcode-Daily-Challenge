@@ -115,16 +115,14 @@
 
 class Solution {
     public int minSwaps(int[][] grid) {
-
         int n = grid.length ;
-
         int[] arr = new int[n] ;
-
         for(int row = 0 ; row < n ; row ++)
         {
             int col = n - 1 ;
 
-            while(col >= 0 && grid[row][col] != 1) col -- ;
+            while(col >= 0 && grid[row][col] != 1) 
+            col -- ;
 
             arr[row] = n - col - 1 ;
         }
