@@ -8,6 +8,7 @@ class Solution {
     Arrays.sort(sarr);
     Arrays.sort(tarr);
     // Compare the sorted arrays
+    //return Arrays.equals(sarr, tarr);
     return Arrays.equals(sarr, tarr);
 
   }
