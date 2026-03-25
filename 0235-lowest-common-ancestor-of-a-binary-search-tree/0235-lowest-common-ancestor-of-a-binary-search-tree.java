@@ -13,12 +13,14 @@ class Solution {
         
         while (root != null) {
             
-            if (p.val < root.val && q.val < root.val) {
-                root = root.left;   // go left
-            } 
-            else if (p.val > root.val && q.val > root.val) {
-                root = root.right;  // go right
-            } 
+          
+
+            if(p.val <root.val && q.val<root.val){
+              root = root.left;
+            }
+            else if(p.val>root.val && q.val>root.val){
+              root =root.right;
+            }
             else {
                 return root; // LCA found
             }
