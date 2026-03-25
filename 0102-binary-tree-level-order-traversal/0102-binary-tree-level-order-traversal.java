@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        
         // Final answer list
         List<List<Integer>> result = new ArrayList<>();
         
