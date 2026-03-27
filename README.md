@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1206,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3437-maximum-total-damage-with-spell-casting) |
