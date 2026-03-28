@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0907-koko-eating-bananas) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2009,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1460-number-of-substrings-containing-all-three-characters) |
