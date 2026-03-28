@@ -1,45 +1,36 @@
 class Solution {
   public int[] twoSum(int[] numbers, int target) {
-    int left = 0;
-    int right = numbers.length - 1;
+    
+    // Two pointers approach
+    int left = 0;                      // Start pointer (smallest element)
+    int right = numbers.length - 1;    // End pointer (largest element)
+
+    // Loop until both pointers meet
     while (left < right) {
+
+      // Calculate sum of current pair
       int sum = numbers[left] + numbers[right];
+
+      // Case 1: If sum equals target → answer found
       if (sum == target) {
+        // Return 1-based index (as per problem requirement)
         return new int[] { left + 1, right + 1 };
       }
-      if (sum < target) {
+
+      // Case 2: If sum is smaller than target
+      // Move left pointer to increase sum
+      else if (sum < target) {
         left++;
-      } else {
+      }
+
+      // Case 3: If sum is greater than target
+      // Move right pointer to decrease sum
+      else {
         right--;
       }
     }
+
+    // Edge case (though problem guarantees one solution)
     return new int[] { -1, -1 };
   }
 }
-
-//         int left = 0;                     // Start pointer
-//         int right = numbers.length - 1;   // End pointer
-
-//         while (left < right) {
-
-//             int sum = numbers[left] + numbers[right];
-
-//             // If sum matches target
-//             if (sum == target) {
-//                 // Return 1-based index
-//                 return new int[]{left + 1, right + 1};
-//             }
-//             // If sum is smaller, move left pointer
-//             else if (sum < target) {
-//                 left++;
-//             }
-//             // If sum is greater, move right pointer
-//             else {
-//                 right--;
-//             }
-//         }
-
-//         // Problem guarantee solution exists
-//         return new int[]{-1, -1};
-//     }
-// }
