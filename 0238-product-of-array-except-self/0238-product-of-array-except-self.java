@@ -6,7 +6,8 @@ class Solution {
         // Step 1: Compute left products (बाएं उत्पादों की गणना करें)
         // ans[i] = product of all elements to the left of nums[i]
         // ans[i] = nums[0] * nums[1] * ... * nums[i-1]
-        ans[0] = 1; // No elements to the left of nums[0], so ans[0] = 1
+        ans[0] = 1;
+         // No elements to the left of nums[0], so ans[0] = 1
         for (int i = 1; i < n; i++) {
             ans[i] = ans[i - 1] * nums[i - 1];
         }
