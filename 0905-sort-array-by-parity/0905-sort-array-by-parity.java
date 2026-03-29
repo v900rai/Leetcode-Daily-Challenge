@@ -1,19 +1,18 @@
-class Solution {
+public class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        if(nums.length==0 || nums.length==1){
-            return nums;
+        int i = 0, j = nums.length - 1;
+        
+        while (i < j) {
+            while (i < j && nums[i] % 2 == 0)
+                i++;
+            while (i < j && nums[j] % 2 == 1)
+                j--;
+            
+            int temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
         }
-        int temp=0;
-        int index=0;
-        for(int i=0; i<nums.length; i++){
-            // check if a number is even and swap it to 0 index. 
-            if(nums[i]%2==0){
-                temp = nums[index];
-                nums[index] = nums[i];
-                nums[i] = temp;
-                index++;
-            }
-        }
+        
         return nums;
     }
 }
