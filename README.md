@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0940-fruit-into-baskets) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1168-duplicate-zeros) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
