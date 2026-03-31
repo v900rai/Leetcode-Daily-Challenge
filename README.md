@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2265-partition-array-according-to-given-pivot) |
