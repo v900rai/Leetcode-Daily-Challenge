@@ -1,7 +1,9 @@
 class Solution {
     public static List<Integer> findKDistantIndices(int[] nums, int key, int k) {
         List<Integer> list = new ArrayList<>();
-        int len = nums.length, left = 0, right = 0;
+        int len = nums.length;
+        int  left = 0;
+        int  right = 0;
 
         while (left < len && right < len) {
             if (nums[right] != key)
