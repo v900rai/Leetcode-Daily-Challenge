@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
+| [0874-walking-robot-simulation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0905-length-of-longest-fibonacci-subsequence) |
