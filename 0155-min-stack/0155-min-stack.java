@@ -7,9 +7,7 @@ class MinStack {
 
     // Min stack: har step par minimum element store karta hai
     private Stack<Integer> minStack = new Stack<>();
-
     
-
     // 🔹 Push element into stack
     public void push(int x) {
 
