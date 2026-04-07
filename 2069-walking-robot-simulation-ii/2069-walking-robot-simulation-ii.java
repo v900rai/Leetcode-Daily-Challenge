@@ -15,7 +15,8 @@ class Robot {
     }
     
     public void step(int num) {
-        if (per == 0) return;
+        if (per == 0)
+         return;
 
         num %= per;
 
