@@ -3,7 +3,8 @@ class Solution {
     public boolean isPowerOfTwo(int n) {
 
         // Step 1: Agar n 0 ya negative hai → power of 2 nahi ho sakta
-        if (n <= 0) return false;
+        if (n <= 0)
+         return false;
 
         // Step 2: Base case
         // 2^0 = 1 → isliye agar n == 1, to true
