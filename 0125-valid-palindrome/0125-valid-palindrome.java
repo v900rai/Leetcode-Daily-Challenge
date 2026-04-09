@@ -11,9 +11,10 @@ class Solution {
       while(start <end && !Character.isLetterOrDigit(s.charAt(end))){
         end--;
       }
-      char startchar = Character.toLowerCase(s.charAt(start));
+      
       
       char endchar = Character.toLowerCase(s.charAt(end));
+      char startchar = Character.toLowerCase(s.charAt(start));
       if (startchar != endchar) {
         return false;
       }
