@@ -1,7 +1,8 @@
 class Solution {
     public String multiply(String num1, String num2) {
         // Edge case: if any number is "0", the result is "0"
-        if (num1.equals("0") || num2.equals("0")) return "0";
+        if (num1.equals("0") || num2.equals("0")) 
+        return "0";
 
         // Initialize result array
         int[] result = new int[num1.length() + num2.length()];
