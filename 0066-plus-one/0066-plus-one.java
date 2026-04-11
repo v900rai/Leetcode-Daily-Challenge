@@ -7,6 +7,7 @@ class Solution {
         while (i >= 0) {
             if (digits[i] < 9) {
                 digits[i]++;
+                //return digits;
                 return digits;
             }
 
