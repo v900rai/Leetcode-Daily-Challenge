@@ -1,25 +1,30 @@
 class Solution {
     public double myPow(double x, int n) {
-        // Convert n to long to safely handle Integer.MIN_VALUE
+        
+        // convert to long (important for overflow)
         long N = n;
-
-        // If n is negative, convert it to positive and take reciprocal of x
+        
+        // handle negative power
         if (N < 0) {
             x = 1 / x;
             N = -N;
         }
-
-        double result = 1.0;
-
-        // Fast exponentiation using bit manipulation
-        while (N > 0) {
-            if ((N % 2) == 1) {
-                result *= x;
-            }
-            x *= x;       // Square the base
-            N /= 2;       // Halve the exponent
+        
+        return power(x, N);
+    }
+    
+    private double power(double x, long n) {
+        
+        // base case
+        if (n == 0) return 1;
+        
+        // recursive call
+        double half = power(x, n / 2);
+        
+        if (n % 2 == 0) {
+            return half * half;
+        } else {
+            return half * half * x;
         }
-
-        return result;
     }
 }
