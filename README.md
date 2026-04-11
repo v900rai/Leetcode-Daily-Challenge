@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0885-spiral-matrix-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0885-spiral-matrix-iii) |
 | [0890-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-walking-robot-simulation) |
+| [0885-spiral-matrix-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0885-spiral-matrix-iii) |
 | [0898-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1545-find-kth-bit-in-nth-binary-string) |
