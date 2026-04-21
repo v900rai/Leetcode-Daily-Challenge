@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -2012,6 +2013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1396-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2092-find-all-people-with-secret) |
@@ -2485,6 +2487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
