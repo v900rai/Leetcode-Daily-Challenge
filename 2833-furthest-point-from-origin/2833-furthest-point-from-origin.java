@@ -7,8 +7,10 @@ class Solution {
         int dash  = 0;
 
         for(char ch : moves.toCharArray()) {
-            if(ch == 'L') left++;
-            else if(ch == 'R') right++;
+            if(ch == 'L') 
+            left++;
+            else if(ch == 'R')
+             right++;
             else dash++;
         }
 
