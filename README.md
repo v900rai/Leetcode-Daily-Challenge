@@ -1440,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-find-common-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1918,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1598-crawler-log-folder](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1598-crawler-log-folder) |
