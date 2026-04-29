@@ -8,8 +8,10 @@ class Solution {
         for (int j = 0; j < n; j++) {
             for (int i = 0; i < n; i++) {
                 B[j][i + 1] = B[j][i] + A[i][j];
+                
             } 
         }
+        
 
         long[] pdp = new long[n + 1];
         long[] pep = new long[n + 1];
