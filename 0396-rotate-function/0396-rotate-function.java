@@ -1,0 +1,23 @@
+class Solution {
+    public int maxRotateFunction(int[] nums) {
+        int n = nums.length;
+        int sum = 0;
+        int fsum = 0;
+
+        // Step 1: Calculate sum and F(0)
+        for (int i = 0; i < n; i++) {
+            sum += nums[i];
+            fsum += i * nums[i];
+        }
+
+        int max = fsum;
+
+        // Step 2: Use formula for next rotations
+        for (int k = 1; k < n; k++) {
+            fsum = fsum + sum - n * nums[n - k];
+            max = Math.max(max, fsum);
+        }
+
+        return max;
+    }
+}
