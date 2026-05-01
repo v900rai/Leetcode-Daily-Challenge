@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0417-pacific-atlantic-water-flow) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
