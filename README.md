@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2032-largest-odd-number-in-string) |
@@ -1841,6 +1842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1922-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
