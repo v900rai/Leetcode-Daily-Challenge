@@ -15,8 +15,10 @@ class Solution {
         for (String s : arr) {
 
             // Check if string is distinct (frequency = 1)
-            if (freq.get(s) == 1) {
-                count++;
+            
+                if(freq.get(s) == 1){
+                  count++;
+                
 
                 // If we found k-th distinct string
                 if (count == k) {
