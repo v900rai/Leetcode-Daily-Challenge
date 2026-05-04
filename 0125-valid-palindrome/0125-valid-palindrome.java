@@ -7,6 +7,7 @@ class Solution {
       while(start < end && !Character.isLetterOrDigit(s.charAt(start))){
         start++;
       }
+     
       while(start <end && !Character.isLetterOrDigit(s.charAt(end))){
         end--;
       }
