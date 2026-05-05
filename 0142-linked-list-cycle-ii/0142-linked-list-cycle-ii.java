@@ -10,22 +10,22 @@
  * }
  */
 public class Solution {
-    public ListNode detectCycle(ListNode head) {
-        ListNode kachua=head;
-        ListNode khargosh=head;
-        ListNode bunty=head;
-        while(khargosh!=null && khargosh.next!=null){
-            kachua=kachua.next;
-            khargosh=khargosh.next.next;
-            if(kachua== khargosh){
-                while(bunty !=kachua){
-                    kachua=kachua.next;
-                    bunty=bunty.next;
-                }
-                return bunty;
-            }
+  public ListNode detectCycle(ListNode head) {
+    ListNode kachua = head;
+    ListNode khargosh = head;
+    ListNode bunty = head;
+    while (khargosh != null && khargosh.next != null) {
+      kachua = kachua.next;
+      khargosh = khargosh.next.next;
+      if (kachua == khargosh) {
+        while (bunty != kachua) {
+          kachua = kachua.next;
+          bunty = bunty.next;
         }
-        return null;
-        
+        return bunty;
+      }
     }
+    return null;
+
+  }
 }
