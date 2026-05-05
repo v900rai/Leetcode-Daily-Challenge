@@ -13,8 +13,6 @@ class Solution {
         ListNode  curr = head;
         ListNode prev = null;
         while(curr!= null){
-          //swaps 
-
           ListNode temp = curr.next;
           curr.next = prev;
           prev = curr;
