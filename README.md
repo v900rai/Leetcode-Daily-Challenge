@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0215-kth-largest-element-in-an-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -2034,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -2184,6 +2187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
@@ -2546,6 +2550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
