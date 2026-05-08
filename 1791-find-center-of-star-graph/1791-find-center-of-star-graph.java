@@ -10,8 +10,11 @@ class Solution {
         int d = edges[1][1]; // 3
 
         // Agar a dono jagah mil gaya
-        if (a == c || a == d) {
+        /*if (a == c || a == d) {
             return a;   // a center hai
+        }*/
+        if(a == c || a == d){
+          return a;
         }
 
         // warna b hi center hoga
