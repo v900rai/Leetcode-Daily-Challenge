@@ -26,6 +26,7 @@ class Solution {
         }
 
         // move both until fast reaches end
+       
         while(fast.next != null){
           fast = fast.next;
           slow = slow.next;
