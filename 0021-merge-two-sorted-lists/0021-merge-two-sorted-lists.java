@@ -4,7 +4,7 @@ class Solution {
       return b;
       if(b==null)
       return a;
-      if(a.val<b.val){
+        if(a.val < b.val){
         a.next = mergeTwoLists(a.next, b);
         return a;
       }
