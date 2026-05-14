@@ -7,10 +7,15 @@
  * }
  */
 
-class Solution{
-  public void deleteNode (ListNode node){
-    node.val = node.next.val;
-    node.next =node.next.next;
-   
-  }
+
+
+class Solution {
+    public void deleteNode(ListNode node) {
+        
+        // Copy next node value
+        node.val = node.next.val;
+        
+        // Skip next node
+        node.next = node.next.next;
+    }
 }
