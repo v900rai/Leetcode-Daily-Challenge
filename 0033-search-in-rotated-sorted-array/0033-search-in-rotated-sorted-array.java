@@ -5,7 +5,7 @@ class Solution {
         int  high = nums.length - 1;
 
         while (low <= high) {
-            int mid = (low + high) / 2;
+            int mid =  high +(low + high) / 2;
 
             if (nums[mid] == target) {
                 return mid;
