@@ -6,7 +6,7 @@ class Solution {
         int currentSum = 0;
         
         for (int i = 0; i < n; i++) {
-            currentSum += nums[i];
+            currentSum =currentSum + nums[i];
             
             while (currentSum >= target) {
                 minLength = Math.min(minLength, i - count + 1);
