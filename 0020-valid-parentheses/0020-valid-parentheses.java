@@ -9,8 +9,9 @@ class Solution {
         for (char ch : s.toCharArray()) {
 
             // 1️⃣ opening bracket → push
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
+            
+            if(ch == '(' || ch == '{' || ch =='['){
+              st.push(ch);
             }
             // 2️⃣ closing bracket
             else {
