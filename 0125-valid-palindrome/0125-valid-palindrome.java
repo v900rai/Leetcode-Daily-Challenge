@@ -8,7 +8,8 @@ class Solution {
         start++;
       }
      
-      while(start <end && !Character.isLetterOrDigit(s.charAt(end))){
+      
+      while(start < end && !Character.isLetterOrDigit(s.charAt(end))){
         end--;
       }
       
