@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0875-koko-eating-bananas) |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0917-boats-to-save-people) |
