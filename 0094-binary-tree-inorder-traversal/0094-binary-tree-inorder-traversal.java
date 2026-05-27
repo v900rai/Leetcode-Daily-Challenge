@@ -15,6 +15,7 @@
  */
 class Solution {
   List<Integer> list = new ArrayList<>();
+
     public List<Integer> inorderTraversal(TreeNode root) {
      
       if(root == null){
@@ -24,6 +25,8 @@ class Solution {
       list.add(root.val);
       inorderTraversal(root.right);
       return list;
+
+
 
         
     }
