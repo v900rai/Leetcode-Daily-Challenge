@@ -19,6 +19,9 @@ class Solution {
       if(root == null){
         return list;
       }
+
+     
+
       list.add(root.val);
       preorderTraversal(root.left);
       preorderTraversal(root.right);
