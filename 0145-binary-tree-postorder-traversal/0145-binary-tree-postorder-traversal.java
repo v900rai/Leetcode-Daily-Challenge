@@ -23,7 +23,10 @@ class Solution {
     }
 
    
-    private void postorderHelper(TreeNode root, List<Integer> list){
+    
+      private void postorderHelper(TreeNode root, List<Integer> list){
+
+      
       if(root ==null){
         return ;
       }
