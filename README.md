@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-maximum-width-ramp) |
 | [1002-find-common-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1646,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -1735,6 +1737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -2188,6 +2191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
