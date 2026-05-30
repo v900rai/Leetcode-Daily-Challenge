@@ -2,54 +2,49 @@ import java.util.Stack;
 
 class MinStack {
 
-    // Main stack: sabhi elements store karta hai
-    private Stack<Integer> stack = new Stack<>();
+    // Main stack
+    Stack<Integer> stack;
 
-    // Min stack: har step par minimum element store karta hai
-    private Stack<Integer> minStack = new Stack<>();
-    
-    // 🔹 Push element into stack
-    public void push(int x) {
+    // Stack to store minimum values
+    Stack<Integer> minStack;
 
+    public MinStack() {
 
-        // Element ko main stack me push karo
-        stack.push(x);
+        stack = new Stack<>();
+        minStack = new Stack<>();
+    }
 
-        // Agar minStack empty hai
-        // ya current element chhota ya equal hai current min se
-        // to minStack me bhi push karo
-        // if (minStack.isEmpty() || x <= minStack.peek()) {
-        //     minStack.push(x);
-        // }
-        if(minStack.isEmpty()|| x<=minStack.peek()){
-          minStack.push(x);
+    public void push(int val) {
+
+        // Push into main stack
+        stack.push(val);
+
+        // Push into min stack if:
+        // 1. minStack is empty
+        // 2. current value <= current minimum
+        if (minStack.isEmpty() || val <= minStack.peek()) {
+            minStack.push(val);
         }
     }
 
-    // 🔹 Remove top element
     public void pop() {
 
-        // Main stack ka top element nikaalo
-        int removed = stack.pop();
-
-        // Agar removed element hi current minimum tha
-        // to minStack se bhi pop karo
-        if (removed == minStack.peek()) {
+        // If top element is minimum,
+        // remove from minStack also
+        if (stack.peek().equals(minStack.peek())) {
             minStack.pop();
         }
+
+        stack.pop();
     }
 
-    // 🔹 Get top element of stack
     public int top() {
 
-        // Stack ka top element return karta hai
         return stack.peek();
     }
 
-    // 🔹 Get minimum element in stack (O(1))
     public int getMin() {
 
-        // Min stack ka top hamesha current minimum hota hai
         return minStack.peek();
     }
 }
