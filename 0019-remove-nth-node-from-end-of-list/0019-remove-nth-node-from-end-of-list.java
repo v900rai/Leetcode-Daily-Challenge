@@ -17,8 +17,9 @@ class Solution {
         ListNode fast = dummy;
         ListNode slow = dummy;
         // move fast n steps ahead
-        for (int i = 0; i < n; i++) {
-            fast = fast.next;
+       
+        for(int i=  0; i<n; i++){
+          fast = fast.next;
         }
         // move both until fast reaches end
         while(fast.next != null){
