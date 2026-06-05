@@ -5,9 +5,10 @@ class Solution {
       if(b==null)
       return a;
         if(a.val < b.val){
-        a.next = mergeTwoLists(a.next, b);
+        a.next = mergeTwoLists(a.next,b);
         return a;
       }
+
       else{
         b.next=mergeTwoLists(a, b.next);
         return b;
