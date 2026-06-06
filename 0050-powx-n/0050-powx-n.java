@@ -16,7 +16,8 @@ class Solution {
     private double power(double x, long n) {
         
         // base case
-        if (n == 0) return 1;
+        if (n == 0)
+         return 1;
         
         // recursive call
         double half = power(x, n / 2);
