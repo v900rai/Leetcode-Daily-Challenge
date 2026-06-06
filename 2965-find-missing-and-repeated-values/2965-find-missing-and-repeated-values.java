@@ -7,6 +7,7 @@ class Solution {
         int size = n * n;
 
         // Frequency array
+        
         int[] freq = new int[size + 1];
 
         // Count occurrences of each number
