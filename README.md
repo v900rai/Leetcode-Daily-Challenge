@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2206-divide-array-into-equal-pairs) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2215-finding-3-digit-even-numbers) |
@@ -2099,6 +2101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -2210,6 +2213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sliding Window
 |  |
 | ------- |
