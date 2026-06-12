@@ -13,6 +13,7 @@ class Solution {
     public void deleteNode(ListNode node) {
         
         // Copy next node value
+    
         node.val = node.next.val;
         
         // Skip next node
