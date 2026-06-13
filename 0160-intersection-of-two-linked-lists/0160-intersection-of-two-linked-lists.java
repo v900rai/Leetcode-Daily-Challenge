@@ -7,6 +7,7 @@ public class Solution {
             lista = (lista != null) ? lista.next : headB;
             listb = (listb != null) ? listb.next : headA;
         }
+        
 
         return lista;        
     }
