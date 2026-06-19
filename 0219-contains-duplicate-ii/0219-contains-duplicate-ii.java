@@ -9,6 +9,7 @@ class Solution {
             }
 
             // Set में नया element add करें
+            //window.add(nums[i]);
             window.add(nums[i]);
 
             // अगर window size k से ज़्यादा हो गया, तो पुराना element हटा दें
