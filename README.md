@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1813-sentence-similarity-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1891,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
@@ -2575,6 +2578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1833-maximum-ice-cream-bars) |
 ## Interactive
 |  |
 | ------- |
