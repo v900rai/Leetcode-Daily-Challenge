@@ -1,11 +1,23 @@
+import java.util.*;
+
 class Solution {
-    public int maxNumberOfBalloons(String text) 
-    {
-        int freq[]=new int[26];
-        for(int i=0;i<text.length();i++)
-        {
-            freq[text.charAt(i)-97]++;
+    public int maxNumberOfBalloons(String text) {
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        for (char ch : text.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
-        return Math.min(Math.min(freq['b'-97],freq['a'-97]),Math.min(Math.min(freq['l'-97]/2,freq['o'-97]/2),freq['n'-97]));
+
+        int b = map.getOrDefault('b', 0);
+        int a = map.getOrDefault('a', 0);
+        int l = map.getOrDefault('l', 0) / 2;
+        int o = map.getOrDefault('o', 0) / 2;
+        int n = map.getOrDefault('n', 0);
+
+        return Math.min(
+                Math.min(b, a),
+                Math.min(Math.min(l, o), n)
+        );
     }
 }
