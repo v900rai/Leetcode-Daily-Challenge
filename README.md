@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1796-second-largest-digit-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1813-maximum-erasure-value) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1980-find-unique-binary-string) |
@@ -1591,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1796-second-largest-digit-in-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1813-sentence-similarity-iii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1894-merge-strings-alternately) |
