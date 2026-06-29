@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1975-maximum-matrix-sum) |
@@ -1612,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2021-remove-all-occurrences-of-a-substring) |
