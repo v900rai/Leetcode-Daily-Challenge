@@ -13,7 +13,8 @@ class Solution {
             }
         }
 
-        if (!contains1) return 1;
+        if (!contains1)
+         return 1;
 
         // Mark whether integers 1 to n are in nums
         // Use index as a hash key and negative sign as a presence detector.
