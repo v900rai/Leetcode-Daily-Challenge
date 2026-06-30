@@ -2,8 +2,10 @@ class MyHashSet {
     
     private boolean[] array = new boolean[1000001];
     
-    public MyHashSet() {        
+    public MyHashSet() { 
+             
     }
+
     
     public void add(int key) {
         array[key] = true;        
