@@ -12,8 +12,9 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
       
+        
         ListNode temp = head;
-        // check if nodes are ≥ 
+        // check if node  are >=
         for(int i=0; i<k; i++){
           if(temp == null){
             return head;
