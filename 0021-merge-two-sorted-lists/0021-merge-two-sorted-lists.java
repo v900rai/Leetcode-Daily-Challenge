@@ -5,7 +5,7 @@ class Solution {
         // to second list return kar do
         if (a == null)
             return b;
-
+            
         // Agar second list khali hai,
         // to first list return kar do
         if (b == null)
