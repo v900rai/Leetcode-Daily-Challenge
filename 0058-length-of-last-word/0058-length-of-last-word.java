@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-
+      
         // Step 1: Starting aur ending spaces remove karo
         s = s.trim();
 
