@@ -14,8 +14,9 @@ class Solution {
         for (int i = n; i >= 0; i--) {
 
             // Agar space mil gaya to last word khatam
-            if (s.charAt(i) == ' ') {
-                break;
+           
+            if(s.charAt(i) == ' '){
+              break;
             }
 
             // Character last word ka hai
