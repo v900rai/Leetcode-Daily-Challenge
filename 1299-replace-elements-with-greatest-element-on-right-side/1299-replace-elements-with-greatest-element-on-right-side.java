@@ -6,7 +6,6 @@ class Solution {
 
         // Traverse each element of array
         for (int i = 0; i < n; i++) {
-
             // Assume maximum element on right side is -1
             int max = -1;
 
