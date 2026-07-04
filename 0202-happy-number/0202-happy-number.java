@@ -14,13 +14,23 @@ class Solution {
     }
 
     // Helper method to calculate sum of squares of digits
-    private int getSumOfSquares(int num) {
-        int sum = 0;
-        while (num > 0) {
-            int digit = num % 10;
-            sum += digit * digit;
-            num /= 10;
-        }
-        return sum;
+    // private int getSumOfSquares(int num) {
+    //     int sum = 0;
+    //     while (num > 0) {
+    //         int digit = num % 10;
+    //         sum += digit * digit;
+    //         num /= 10;
+    //     }
+    //     return sum;
+    // }
+    private int getSumOfSquares(int num){
+      int sum=0;
+      while(num>0){
+        int digit=num%10;
+        sum+=digit*digit;
+        num/=10;
+
+      }
+      return sum;
     }
 }
