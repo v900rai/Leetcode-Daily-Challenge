@@ -2,7 +2,6 @@ class Solution {
   public int maxScore(String s) {
     int n = s.length();
     int result = Integer.MIN_VALUE;
-
     for (int i = 0; i < n - 1; i++) {
       int zerosLeft = 0;
       for (int j = 0; j <= i; j++) {
