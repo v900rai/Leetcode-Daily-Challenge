@@ -8,6 +8,7 @@ class Solution {
           }
           j++;
         }
+         
         // agar s ke saare characters match ho gaye
         return i == s.length();
         ///return j == t.length();
