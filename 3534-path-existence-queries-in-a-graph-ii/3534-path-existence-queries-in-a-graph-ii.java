@@ -3,12 +3,10 @@ class Solution {
 
         // Pair each value with its original index so we can recover positions after sorting
         int sorted[][] = new int[n][2];
-
         for(int i=0; i<n; i++) {
             sorted[i][0] = nums[i];
             sorted[i][1] = i;
         }
-
         Arrays.sort(sorted, (a,b)->Integer.compare(a[0], b[0]));
 
         // Map each original index to its rank in the sorted order
