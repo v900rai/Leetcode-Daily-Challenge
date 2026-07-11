@@ -3,7 +3,6 @@ class Solution {
     public int[] replaceElements(int[] arr) {
 
         int n = arr.length;
-
         // Traverse each element of array
         for (int i = 0; i < n; i++) {
             // Assume maximum element on right side is -1
