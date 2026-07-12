@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1345-jump-game-iv) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
