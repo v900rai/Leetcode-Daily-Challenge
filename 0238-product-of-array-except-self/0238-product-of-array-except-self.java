@@ -2,7 +2,6 @@ class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] ans = new int[n];
-        
         // Step 1: Compute left products (बाएं उत्पादों की गणना करें)
         // ans[i] = product of all elements to the left of nums[i]
         // ans[i] = nums[0] * nums[1] * ... * nums[i-1]
