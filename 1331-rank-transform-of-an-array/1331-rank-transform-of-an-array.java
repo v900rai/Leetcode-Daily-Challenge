@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
         // Create a copy of the array to sort it without modifying the original array
