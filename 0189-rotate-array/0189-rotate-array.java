@@ -5,7 +5,10 @@ public void rotate(int[] nums, int k) {
 
     // If k is greater than array length,
     // take remainder to avoid extra rotations
-    k = k % nums.length;
+    //k = k % nums.length;
+    //k = k % nums.length;
+    k = k% nums.length;
+
     // Step 1:
     // Reverse the complete array
     reverse(nums, 0, nums.length - 1);
