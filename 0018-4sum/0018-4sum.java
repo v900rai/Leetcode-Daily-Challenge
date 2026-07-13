@@ -1,6 +1,7 @@
 class Solution {
   public List<List<Integer>> fourSum(int[] nums, int target) {
    
+    //List<List<Integer>> result = new ArrayList<>();
     List<List<Integer>> result = new ArrayList<>();
     
     int n= nums.length;
