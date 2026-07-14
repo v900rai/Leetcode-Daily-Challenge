@@ -6,9 +6,7 @@ class Solution {
     for (int right = 0; right < s.length(); right++) {
       char ch = s.charAt(right);
       while (set.contains(ch)) { // ager mil gya to 
-
         set.remove(s.charAt(left)); /// remove 
-
         left++;
       }
       //agr nii mila to 
