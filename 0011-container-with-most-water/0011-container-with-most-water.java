@@ -20,6 +20,7 @@ class Solution {
 
       // Height is the minimum of two lines
 
+      //int h = Math.min(height[left], height[right]);
       int h = Math.min(height[left], height[right]);
 
       // Calculate current area
@@ -27,6 +28,7 @@ class Solution {
 
       // Store the maximum area
       ans = Math.max(ans, area);
+     
 
       // Move the pointer with smaller height
       if (height[left] < height[right]) {
