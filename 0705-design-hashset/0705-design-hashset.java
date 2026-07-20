@@ -1,23 +1,22 @@
 class MyHashSet {
-    
-    private boolean[] array = new boolean[1000001];
-    
-    public MyHashSet() { 
-             
-    }
 
-    
-    public void add(int key) {
-        array[key] = true;        
-    }
-    
-    public void remove(int key) {
-        array[key] = false;
-    }   
+  private boolean[] array = new boolean[1000001];
 
-    public boolean contains(int key) {
-        return array[key];
-    }
+  public MyHashSet() {
+
+  }
+
+  public void add(int key) {
+    array[key] = true;
+  }
+
+  public void remove(int key) {
+    array[key] = false;
+  }
+
+  public boolean contains(int key) {
+    return array[key];
+  }
 }
 
 /**
