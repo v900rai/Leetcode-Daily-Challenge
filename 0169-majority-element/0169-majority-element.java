@@ -8,7 +8,6 @@ class Solution {
             candidate  = nums[i];
             count++;
           } 
-          
         else{
           count--;
           if(count == 0){
