@@ -1,6 +1,7 @@
 class Solution {
     public int maxProduct(int n) {
-        int max1 = -1 , max2 = -1;
+        int max1 = -1;
+        int  max2 = -1;
         while(n != 0){
             int rem = n % 10;
             if(max1 <= rem){
