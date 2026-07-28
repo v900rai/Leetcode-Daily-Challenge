@@ -16,10 +16,12 @@ class Solution {
         // Now, ans[i] = leftProduct[i] * rightProduct[i]
         // rightProduct = product of all elements to the right of nums[i]
         // rightProduct = nums[i+1] * nums[i+2] * ... * nums[n-1]
-        int rightProduct = 1; // Initially, no elements to the right of nums[n-1]
-        for (int i = n - 1; i >= 0; i--) {
-            ans[i] = ans[i] * rightProduct; // Multiply left product with right product
-            rightProduct *= nums[i]; // Update right product for next iteration
+        // Initially, no elements to the right of nums[n-1]
+       
+        int rightProduct = 1;
+        for(int i = n-1;  i>= 0; i--){
+          ans[i] = ans[i] * rightProduct;
+          rightProduct = rightProduct * nums[i];
         }
         
         return ans;
