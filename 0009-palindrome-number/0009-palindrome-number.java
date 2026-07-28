@@ -10,7 +10,7 @@ class Solution {
     while (temp != 0) {
       int digit = temp % 10;
       rev = rev * 10 + digit;
-      temp = temp / 10;
+      temp = temp/ 10;
     }
     return (rev == x);
 
