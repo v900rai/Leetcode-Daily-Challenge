@@ -16,7 +16,6 @@ class Solution {
 
             // a ke next me merged list attach karo
             a.next = mergeTwoLists(a.next, b);
-
             // a ko return karo
             return a;
         }
