@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
@@ -1455,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1761,6 +1764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3612-process-string-with-special-operations-i) |
@@ -2737,6 +2741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
