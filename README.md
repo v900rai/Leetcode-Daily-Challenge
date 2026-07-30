@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2965-find-missing-and-repeated-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1735,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3093-longest-common-suffix-queries) |
@@ -2040,6 +2042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
