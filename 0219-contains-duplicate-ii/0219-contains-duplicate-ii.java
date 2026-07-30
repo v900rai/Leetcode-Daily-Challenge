@@ -4,10 +4,9 @@ class Solution {
         Set<Integer> window = new HashSet<>();
         for (int i = 0; i < nums.length; i++) {
             // अगर यह element पहले से set में मौजूद है, तो duplicate मिला
-            if (window.contains(nums[i])) {
-                return true;
+            if(window.contains(nums[i])){
+              return true;
             }
-
             // Set में नया element add करें
             //window.add(nums[i]);
             window.add(nums[i]);
