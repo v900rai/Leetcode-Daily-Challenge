@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0560-subarray-sum-equals-k) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0670-maximum-swap) |
@@ -1493,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0788-rotated-digits) |
@@ -2085,6 +2088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -2813,6 +2817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
