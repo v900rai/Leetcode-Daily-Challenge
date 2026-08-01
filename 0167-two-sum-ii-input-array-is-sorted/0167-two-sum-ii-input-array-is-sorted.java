@@ -15,7 +15,8 @@ class Solution {
       if (sum == target) {
         // Return 1-based index (as per problem requirement)
         //return new int[] { left + 1, right + 1 };
-        return new int[] {left+1, right+1 };
+        //return new int[] {left+1, right+1 };
+        return new int[] {left+1, right+1};
       }
 
       // Case 2: If sum is smaller than target
