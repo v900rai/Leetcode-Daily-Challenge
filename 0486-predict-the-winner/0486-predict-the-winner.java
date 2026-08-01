@@ -2,6 +2,7 @@ class Solution {
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
 
+        //int[][] dp = new int[n][n];
         int[][] dp = new int[n][n];
 
         // Base case
