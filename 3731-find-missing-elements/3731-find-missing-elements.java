@@ -1,21 +1,23 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
 
-        boolean[] present = new boolean[101];
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
-        int mini = Integer.MAX_VALUE;
-        int maxi = Integer.MIN_VALUE;
+        Set<Integer> set = new HashSet<>();
 
+        // Find min, max and store elements
         for (int num : nums) {
-            present[num] = true;
-            mini = Math.min(mini, num);
-            maxi = Math.max(maxi, num);
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+            set.add(num);
         }
 
         List<Integer> ans = new ArrayList<>();
 
-        for (int i = mini; i <= maxi; i++) {
-            if (!present[i]) {
+        // Check all numbers between min and max
+        for (int i = min + 1; i < max; i++) {
+            if (!set.contains(i)) {
                 ans.add(i);
             }
         }
