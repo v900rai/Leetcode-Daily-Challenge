@@ -18,9 +18,10 @@ class Solution {
         if (board == null || board.length != 9 || board[0].length != 9) {
             throw new IllegalArgumentException("Input is invalid");
         }
-
+        
+         
+       
         int rowColBox = 0;
-
         for (int i = 0; i < 9; i++) { // Index of row, column and box
             for (int j = 0; j < 9; j++) {
                 // Check ith row
