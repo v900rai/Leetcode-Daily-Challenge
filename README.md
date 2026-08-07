@@ -2883,4 +2883,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
