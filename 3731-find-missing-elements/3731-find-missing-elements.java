@@ -4,7 +4,9 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
+        //Set<Integer> set = new HashSet<>();
         Set<Integer> set = new HashSet<>();
+
 
         // Find min, max and store elements
         for (int num : nums) {
