@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1521,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1819,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -2839,6 +2843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -2892,12 +2897,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 ## Bracket Sequences
 |  |
