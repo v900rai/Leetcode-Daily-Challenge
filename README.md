@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2965-find-missing-and-repeated-values](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1400,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
