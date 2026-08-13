@@ -6,8 +6,9 @@ class Solution {
         int right = 0;
 
         // find maximum pile -> maximum limit for speed
-        for (int pile : piles) {
-            right = Math.max(right, pile);
+        
+        for(int pile : piles){
+          right = Math.max(right, pile);
         }
 
         int ans = right;
