@@ -1,28 +1,23 @@
+// 
+
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
     public int longestSubsequence(int[] nums) {
-
         int n = nums.length;
-        int xor = 0;
 
-        // Step 1: Find XOR of complete array
-        for (int num : nums) {
-            xor ^= num;
+        int resultXor = 0;
+        boolean allZero = true;
+
+        for(int x : nums) {
+            resultXor ^= x;
+            if(x != 0)
+                allZero = false;
         }
 
-        // Case 1: Complete array ka XOR non-zero hai
-        if (xor != 0) {
-            return n;
-        }
-
-        // Case 2: Complete XOR zero hai
-        // Check karo koi non-zero element hai ya nahi
-        for (int num : nums) {
-            if (num != 0) {
-                return n - 1;
-            }
-        }
-
-        // Case 3: Saare elements zero hain
-        return 0;
+        if(allZero)
+            return 0;
+        
+        return resultXor == 0 ? n-1 : n;
     }
 }
