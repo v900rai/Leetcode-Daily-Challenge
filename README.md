@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2048-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1466,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -2052,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2089-maximum-matrix-sum) |
@@ -2863,6 +2867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -2918,6 +2923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -2926,6 +2932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -2934,6 +2941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
