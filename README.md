@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1590-make-sum-divisible-by-p) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1548,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2867,6 +2870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
