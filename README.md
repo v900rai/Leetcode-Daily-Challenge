@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
@@ -1737,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -2070,6 +2072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
@@ -2886,6 +2889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
