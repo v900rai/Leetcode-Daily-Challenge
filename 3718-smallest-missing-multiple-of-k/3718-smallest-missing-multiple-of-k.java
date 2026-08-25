@@ -2,14 +2,14 @@ import java.util.*;
 
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        HashSet<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>();
 
-        // Store all elements
+        // all elements h yaha 
         for (int num : nums) {
             set.add(num);
         }
 
-        // Check multiples of k
+        // Check multiples of k subko
         int multiple = k;
 
         while (set.contains(multiple)) {
