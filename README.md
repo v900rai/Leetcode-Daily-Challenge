@@ -3024,4 +3024,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
