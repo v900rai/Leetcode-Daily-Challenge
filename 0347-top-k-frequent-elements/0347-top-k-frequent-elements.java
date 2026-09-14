@@ -1,14 +1,14 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
-        //  Count frequency
+        // Count frequency
         HashMap<Integer, Integer> freq = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int n = nums[i];
            // freq.put(n, freq.getOrDefault(n, 0) + 1);
             freq.put(n, freq.getOrDefault(n, 0)+1);
         }
-
+         
         //  Min heap based on frequency
         PriorityQueue<Integer> heap = 
             new PriorityQueue<>((a, b) -> freq.get(a) - freq.get(b));
