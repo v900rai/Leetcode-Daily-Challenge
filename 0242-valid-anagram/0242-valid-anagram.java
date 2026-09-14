@@ -4,6 +4,7 @@ class Solution {
     if (s.length() != t.length()) {
       return false;
     }
+    
     char[] sarr = s.toCharArray();
     char[] tarr = t.toCharArray();
 
