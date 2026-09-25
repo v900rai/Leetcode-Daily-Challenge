@@ -5,7 +5,7 @@ class Solution {
 
     // If k is greater than array length,
     // take remainder to avoid extra rotations
-    //k = k % nums.length;
+     
     //k = k % nums.length;
     k = k % nums.length;
 
@@ -23,7 +23,9 @@ class Solution {
 
   }
 
-  private void reverse(int[] nums, int start, int end) {
+ // private void reverse(int[] nums, int start, int end) 
+  private  void reverse(int[] nums, int start, int end)
+  {
     while (start < end) {
       int temp = nums[start];
       nums[start] = nums[end];
