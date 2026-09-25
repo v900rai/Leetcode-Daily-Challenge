@@ -1020,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1412,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1748,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1170-shortest-common-supersequence) |
@@ -2329,6 +2332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1598-crawler-log-folder](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1598-crawler-log-folder) |
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2599,6 +2603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0945-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1306-jump-game-iii) |
@@ -2720,6 +2725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
