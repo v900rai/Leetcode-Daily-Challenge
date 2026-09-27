@@ -1757,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -2336,6 +2337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1598-crawler-log-folder](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1598-crawler-log-folder) |
 | [1628-count-submatrices-with-all-ones](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1628-count-submatrices-with-all-ones) |
@@ -3062,6 +3064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Nim Game
 |  |
 | ------- |
