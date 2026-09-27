@@ -1,27 +1,49 @@
+import java.util.*;
+
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<Integer> stack = new Stack<>();
-        StringBuilder sb = new StringBuilder();
-        for(char ch : s.toCharArray()){
-            if(ch == '('){
-                stack.push(sb.length());
+
+        Stack<Character> stack = new Stack<>();
+
+        for (char ch : s.toCharArray()) {
+
+            // Opening bracket
+            if (ch == '(') {
+                stack.push(ch);
             }
-            else if(ch == ')'){
-                int start = stack.pop();
-                reverse(sb,start,sb.length() - 1);
+
+            // Closing bracket
+            else if (ch == ')') {
+
+                // Characters ko reverse karte hue nikaalo
+                StringBuilder temp = new StringBuilder();
+
+                while (stack.peek() != '(') {
+                    temp.append(stack.pop());
+                }
+
+                // '(' remove karo
+                stack.pop();
+
+                // Reversed characters wapas stack mein daalo
+                for (char c : temp.toString().toCharArray()) {
+                    stack.push(c);
+                }
             }
-            else{
-                sb.append(ch);
+
+            // Normal character
+            else {
+                stack.push(ch);
             }
         }
-        return sb.toString();
-    }
-    
-    public void reverse(StringBuilder rev , int start , int end){
-        while(start < end){
-            char temp = rev.charAt(start);
-            rev.setCharAt(start++ , rev.charAt(end));
-            rev.setCharAt(end-- , temp);
+
+        // Stack se final answer banao
+        StringBuilder result = new StringBuilder();
+
+        for (char ch : stack) {
+            result.append(ch);
         }
+
+        return result.toString();
     }
 }
