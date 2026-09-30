@@ -1,8 +1,9 @@
 class Solution {
   public boolean isPalindrome(int x) {
 
+    
     boolean flag = true;
-    if (x < 0) {
+    if(x <0){
       return false;
     }
     int temp = x;
