@@ -1746,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -2343,6 +2344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0874-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -3084,6 +3086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
