@@ -1718,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0345-reverse-vowels-of-a-string) |
@@ -2617,6 +2618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2749,6 +2751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/v900rai/LeetcodeVishalrai/tree/master/0756-pyramid-transition-matrix) |
