@@ -4,9 +4,7 @@ class Solution {
         int right = nums.length - 1;
 
         while (left <= right) {
-            // int mid = right + (left - right) / 2;
             int mid = right + (left - right) / 2;
-
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] < target) {
