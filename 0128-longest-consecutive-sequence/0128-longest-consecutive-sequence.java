@@ -8,7 +8,7 @@ class Solution {
     for (int val : nums) {
       set.add(val);
     }
-
+    
     int max = 0; // Longest sequence ka answer
     // Step 2: Har number ke liye check karo
     for (int num : set) {
