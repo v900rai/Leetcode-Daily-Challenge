@@ -1,6 +1,7 @@
 class Solution {
     private boolean check(int[] nums, int k) {
-        int n = nums.length, prev = 0;
+        int n = nums.length; 
+         int prev = 0;
 
         for (int i = 0; i < n; i += k) {
             int cnt = 0;
