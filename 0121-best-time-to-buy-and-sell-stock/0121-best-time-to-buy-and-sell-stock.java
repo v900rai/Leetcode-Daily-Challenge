@@ -1,23 +1,15 @@
 class Solution {
-
     public int maxProfit(int[] prices) {
-
-        // Ab tak ka minimum buying price
-        int minPrice = prices[0];
-
-        // Maximum profit
+        int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
 
-        for (int i = 1; i < prices.length; i++) {
-
-            // Agar aaj sell karein to profit
-            int currentProfit = prices[i] - minPrice;
-
-            // Maximum profit update
-            maxProfit = Math.max(maxProfit, currentProfit);
-
-            // Minimum buying price update
-            minPrice = Math.min(minPrice, prices[i]);
+        for (int i = 0; i < prices.length; i++) {
+            if (prices[i] > buyPrice) {
+                int profit = prices[i] - buyPrice;
+                maxProfit = Math.max(maxProfit, profit);
+            } else {
+                buyPrice = prices[i];
+            }
         }
 
         return maxProfit;
