@@ -5,13 +5,13 @@ class Solution {
         HashMap<Integer, Integer> freq = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int n = nums[i];
-           // freq.put(n, freq.getOrDefault(n, 0) + 1);
-            freq.put(n, freq.getOrDefault(n, 0)+1);
+            // freq.put(n, freq.getOrDefault(n, 0) + 1);
+            //freq.put(n, freq.getOrDefault(n, 0)+1);
+            freq.put(n, freq.getOrDefault(n, 0) + 1);
         }
-         
+
         //  Min heap based on frequency
-        PriorityQueue<Integer> heap = 
-            new PriorityQueue<>((a, b) -> freq.get(a) - freq.get(b));
+        PriorityQueue<Integer> heap = new PriorityQueue<>((a, b) -> freq.get(a) - freq.get(b));
 
         // Keep only k most frequent elements
         Object[] keys = freq.keySet().toArray();
@@ -20,7 +20,7 @@ class Solution {
             heap.add(num);
 
             if (heap.size() > k) {
-                heap.poll();   // remove least frequent
+                heap.poll(); // remove least frequent
             }
         }
 
