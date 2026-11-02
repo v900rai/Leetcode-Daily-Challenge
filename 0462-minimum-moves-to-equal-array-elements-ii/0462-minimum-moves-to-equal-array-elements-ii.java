@@ -13,7 +13,8 @@ class Solution {
         int moves = 0;
 
         for (int num : nums) {
-            moves += Math.abs(num - median);
+            //moves += Math.abs(num - median);
+            moves = moves+ Math.abs(num - median);
         }
 
         // Step 4: Return minimum moves
