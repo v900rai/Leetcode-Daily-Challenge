@@ -27,7 +27,8 @@ class MinStack {
         // Push into min stack if:
         // 1. minStack is empty
         // 2. current value <= current minimum
-        if (minStack.isEmpty() || val <= minStack.peek()) {
+       
+        if(minStack.isEmpty() || val <= minStack.peek()){
             minStack.push(val);
         }
     }
