@@ -3,13 +3,18 @@ import java.util.Stack;
 class MinStack {
 
     // Main stack
-    Stack<Integer> stack;
+   // Stack<Integer> stack;
 
     // Stack to store minimum values
-    Stack<Integer> minStack;
+    //Stack<Integer> minStack;
 
+    
+    Stack<Integer> stack;
+    Stack<Integer> minStack;
     public MinStack() {
 
+        //stack = new Stack<>();
+       // minStack = new Stack<>();
         stack = new Stack<>();
         minStack = new Stack<>();
     }
